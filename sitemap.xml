@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://azimmemon2002.github.io</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/myPhoto-8fe8fe0c.jpg</image:loc>
+            <image:title>Azim Memon Photo</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://azimmemon2002.github.io/?/projects</loc>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/alien-61f8b4ad.webp</image:loc>
+            <image:title>Alien Game Project by Azim Memon</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/disease-a4841f04.webp</image:loc>
+            <image:caption> </image:caption>
+            <image:title>Disease Prediction Project by Azim Memon</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/e-store_preview-474972b9.webp</image:loc>
+            <image:title>e-store Project by Azim Memon</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/e-store-adminHome-12c7451c.webp</image:loc>
+            <image:title>e-store admin Project by Azim Memon</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/myPortfolio-7df16b20.webp</image:loc>
+            <image:title>Portfolio Project by Azim Memon</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/news-19175070.webp</image:loc>
+            <image:title>News Project by Azim Memon</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://azimmemon2002.github.io/assets/oldPortfolio-14cf54ad.webp</image:loc>
+            <image:title>old-Portfolio Project by Azim Memon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://azimmemon2002.github.io/?/skills</loc>
+    </url>
+    <url>
+        <loc>https://azimmemon2002.github.io/?/contact</loc>
+    </url>
+</urlset>
