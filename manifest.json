@@ -1,0 +1,27 @@
+{
+  "name": "Azim Memon - Software Developer Portfolio",
+  "short_name": "Azim Memon",
+  "description": "Software Engineer with 3+ years of experience in full-stack and blockchain development",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00021b",
+  "theme_color": "#00021b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/img/titleIcon.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/img/titleIcon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["technology", "portfolio", "development"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
