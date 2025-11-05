@@ -1,0 +1,939 @@
+1:"$Sreact.fragment"
+2:I[41402,["177","static/chunks/app/layout-d1bb4207cd042c5d.js"],""]
+9:I[54062,["219","static/chunks/app/global-error-dbb070b1d0e84eb8.js"],"default"]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/90e6be0f5f3f91eb.css","style"]
+:HL["/_next/static/css/dc1901b5f9fad760.css","style"]
+0:{"P":null,"b":"pwkQV1WcSJt2IHaH0JUDp","p":"","c":["","blog","building-private-blockchain-besu-qbft",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","building-private-blockchain-besu-qbft","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90e6be0f5f3f91eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/dc1901b5f9fad760.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preload","href":"/assets/img/azim-memon-fullstack-developer.jpg","as":"image"}],["$","meta",null,{"name":"author","content":"Azim Memon"}],["$","meta",null,{"name":"language","content":"English"}],["$","meta",null,{"name":"revisit-after","content":"7 days"}],["$","meta",null,{"name":"distribution","content":"global"}],["$","meta",null,{"name":"rating","content":"general"}],["$","meta",null,{"name":"geo.region","content":"IN-GJ"}],["$","meta",null,{"name":"geo.placename","content":"Ahmedabad"}],["$","link",null,{"rel":"me","href":"https://www.linkedin.com/in/azim-m-73221a231"}],["$","link",null,{"rel":"me","href":"https://github.com/azimmemon2002"}],["$","$L2",null,{"id":"structured-data-person","type":"application/ld+json","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Azim Memon\",\"url\":\"http://localhost:3000\",\"image\":\"http://localhost:3000/assets/img/azim-memon-fullstack-developer.jpg\",\"jobTitle\":\"Software Developer\",\"worksFor\":{\"@type\":\"Organization\",\"name\":\"eSparkBiz\",\"url\":\"https://www.esparkbiz.com\"},\"alumniOf\":{\"@type\":\"CollegeOrUniversity\",\"name\":\"Gujarat Technological University\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Ahmedabad\",\"addressRegion\":\"Gujarat\",\"addressCountry\":\"IN\"}},\"description\":\"Software Engineer with 3+ years of experience in full-stack and blockchain development\",\"sameAs\":[\"https://www.linkedin.com/in/azim-m-73221a231\",\"https://github.com/azimmemon2002\"],\"knowsAbout\":[\"React\",\"Next.js\",\"Node.js\",\"Spring Boot\",\"TypeScript\",\"Java\",\"Python\",\"Blockchain\",\"Microservices\",\"PostgreSQL\",\"MongoDB\",\"Docker\",\"React Native\"],\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Ahmedabad\",\"addressRegion\":\"Gujarat\",\"addressCountry\":\"IN\"}}"}}],["$","$L2",null,{"id":"structured-data-website","type":"application/ld+json","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Azim Memon Portfolio\",\"url\":\"http://localhost:3000\",\"description\":\"Professional portfolio of Azim Memon, a Software Developer specializing in full-stack and blockchain development\",\"author\":{\"@type\":\"Person\",\"name\":\"Azim Memon\"},\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"http://localhost:3000/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}],["$","$L2",null,{"id":"structured-data-service","type":"application/ld+json","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ProfessionalService\",\"name\":\"Azim Memon - Software Development Services\",\"image\":\"http://localhost:3000/assets/img/azim-memon-fullstack-developer.jpg\",\"@id\":\"http://localhost:3000\",\"url\":\"http://localhost:3000\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Ahmedabad\",\"addressRegion\":\"Gujarat\",\"addressCountry\":\"IN\"},\"description\":\"Professional software development services including full-stack web development, blockchain solutions, and microservices architecture\",\"priceRange\":\"$$\",\"areaServed\":{\"@type\":\"Country\",\"name\":\"India\"}}"}}],"$L3"]}],"$L4"]}]]}],{"children":["blog","$L5",{"children":[["slug","building-private-blockchain-besu-qbft","d"],"$L6",{"children":["__PAGE__","$L7",{},null,false]},null,false]},null,false]},null,false],"$L8",false]],"m":"$undefined","G":["$9",[]],"s":false,"S":true}
+a:I[9766,[],""]
+b:I[98924,[],""]
+c:I[25254,["297","static/chunks/297-82933dba0a8b3452.js","130","static/chunks/130-f4825382e2b97cab.js","345","static/chunks/app/not-found-5a1c84886b59600a.js"],"default"]
+d:I[4454,["297","static/chunks/297-82933dba0a8b3452.js","130","static/chunks/130-f4825382e2b97cab.js","647","static/chunks/647-834e343d48a33d22.js","584","static/chunks/app/blog/layout-d39d0ebe6ebc8c5f.js"],"default"]
+e:I[5042,["297","static/chunks/297-82933dba0a8b3452.js","130","static/chunks/130-f4825382e2b97cab.js","647","static/chunks/647-834e343d48a33d22.js","584","static/chunks/app/blog/layout-d39d0ebe6ebc8c5f.js"],"default"]
+10:I[24431,[],"OutletBoundary"]
+12:I[15278,[],"AsyncMetadataOutlet"]
+14:I[24431,[],"ViewportBoundary"]
+16:I[24431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+3:["$","$L2",null,{"id":"structured-data-breadcrumb","strategy":"beforeInteractive","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"http://localhost:3000\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"About\",\"item\":\"http://localhost:3000#about\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Projects\",\"item\":\"http://localhost:3000#projects\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Experience\",\"item\":\"http://localhost:3000#experience\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"Contact\",\"item\":\"http://localhost:3000#contact\"}]}"}}]
+4:["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased","children":[["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$Lc",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],""]}]
+5:["$","$1","c",{"children":[null,[["$","$Ld",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Le",null,{}]]]}]
+6:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+7:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+8:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[99933,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-9a7e8a8018ba81b7.js"],"default"]
+1a:I[7445,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-9a7e8a8018ba81b7.js"],"default"]
+1b:I[73094,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-9a7e8a8018ba81b7.js"],"default"]
+f:["$","div",null,{"className":"pt-1 sm:pt-12 lg:pt-20 pb-20 lg:pb-8 bg-primary text-white","children":[["$","$L19",null,{}],["$","$L1a",null,{}],["$","section",null,{"className":"pt-4 px-4 sm:px-6","children":["$","div",null,{"className":"container mx-auto max-w-4xl","children":[["$","div",null,{"className":"mb-6 animate-fade-in","children":["$","span",null,{"className":"inline-flex items-center gap-2 px-4 py-2 text-xs font-semibold rounded-lg bg-gradient-to-r from-cyan-400/10 to-purple-400/10 text-cyan-400 border border-cyan-400/30 backdrop-blur-sm hover:scale-105 transition-transform duration-200","children":"Blockchain"}]}],["$","h1",null,{"className":"text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold mb-8 leading-[1.2] text-white animate-fade-in-up","children":"Building a Private Blockchain with Hyperledger Besu & Docker: Complete QBFT Network Setup Guide"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-400 mb-8 pb-8 border-b border-white/10","children":[["$","div",null,{"className":"flex items-center gap-3 group","children":[["$","div",null,{"className":"transform transition-transform duration-200 group-hover:scale-110","children":["$","$L1b",null,{"alt":"Azim Memon","size":48,"showGlow":true}]}],["$","span",null,{"className":"font-medium text-gray-300 group-hover:text-white transition-colors","children":"Azim Memon"}]]}],["$","span",null,{"className":"text-gray-600 hidden sm:inline","children":"•"}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 hover:border-white/20 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4 text-cyan-400","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"2025-11-06","className":"text-gray-400","children":"Nov 06, 2025"}]]}],["$","span",null,{"className":"text-gray-600 hidden sm:inline","children":"•"}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4 text-purple-400","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"className":"text-gray-400","children":"26 min read"}]]}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2 mb-10","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-4 h-4 text-gray-500","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],[["$","span","Blockchain",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"0ms"},"children":"Blockchain"}],["$","span","Hyperledger Besu",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"50ms"},"children":"Hyperledger Besu"}],"$L1c","$L1d","$L1e"]]}],"$L1f"]}]}],"$L20","$L21"]}]
+22:I[81356,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-9a7e8a8018ba81b7.js"],"Image"]
+24:I[52619,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-9a7e8a8018ba81b7.js"],""]
+1c:["$","span","Docker",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"100ms"},"children":"Docker"}]
+1d:["$","span","QBFT",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"150ms"},"children":"QBFT"}]
+1e:["$","span","Smart Contracts",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"200ms"},"children":"Smart Contracts"}]
+1f:["$","div",null,{"className":"relative aspect-[2/1] rounded-2xl overflow-hidden border border-white/10 mb-12 group shadow-2xl","children":[["$","$L22",null,{"src":"/assets/blog/qbft-blockchain-guide.png","alt":"Building a Private Blockchain with Hyperledger Besu & Docker: Complete QBFT Network Setup Guide","fill":true,"className":"object-cover transition-transform duration-700 group-hover:scale-105","priority":true,"sizes":"(max-width: 768px) 100vw, 896px"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"}]]}]
+20:["$","article",null,{"className":"pb-16 px-4 sm:px-6","children":["$","div",null,{"className":"container mx-auto max-w-4xl","children":["$","div",null,{"className":"prose prose-invert prose-lg max-w-none","children":"$L23"}]}]}]
+21:["$","section",null,{"className":"pb-2 px-4 sm:px-6","children":["$","div",null,{"className":"container mx-auto max-w-4xl","children":[["$","div",null,{"className":"mb-8 p-6 rounded-2xl bg-gradient-to-r from-cyan-400/5 to-purple-400/5 border border-white/10","children":["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center sm:text-left","children":[["$","p",null,{"className":"text-sm font-semibold text-white mb-1","children":"Enjoyed this article?"}],["$","p",null,{"className":"text-xs text-gray-400","children":"Share it with your network"}]]}],["$","div",null,{"className":"flex flex-wrap gap-3 justify-center","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Building%20a%20Private%20Blockchain%20with%20Hyperledger%20Besu%20%26%20Docker%3A%20Complete%20QBFT%20Network%20Setup%20Guide&url=http%3A%2F%2Flocalhost%3A3000%2Fblog%2Fbuilding-private-blockchain-besu-qbft","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 px-5 py-2.5 bg-black hover:bg-[#1DA1F2] border border-white/20 hover:border-[#1DA1F2] rounded-xl transition-all duration-300 text-sm font-medium group shadow-lg hover:shadow-[#1DA1F2]/30 hover:scale-105","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"w-4 h-4 text-white","children":["$undefined",[["$","path","0",{"d":"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],["$","span",null,{"children":"Twitter"}]]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A3000%2Fblog%2Fbuilding-private-blockchain-besu-qbft","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 px-5 py-2.5 bg-[#0A66C2] hover:bg-[#004182] border border-[#0A66C2] hover:border-[#004182] rounded-xl transition-all duration-300 text-sm font-medium group shadow-lg hover:shadow-[#0A66C2]/30 hover:scale-105","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","className":"w-4 h-4 text-white","children":["$undefined",[["$","path","0",{"d":"M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],["$","span",null,{"children":"LinkedIn"}]]}]]}]]}]}],["$","$L24",null,{"href":"/#contact","className":"block group","children":["$","div",null,{"className":"p-8 rounded-2xl bg-gradient-to-br from-white/[0.03] to-white/[0.01] border border-white/10 shadow-xl backdrop-blur-sm transition-all duration-300 hover:border-white/20 hover:shadow-2xl hover:shadow-cyan-400/10 hover:-translate-y-1","children":["$","div",null,{"className":"flex flex-col sm:flex-row items-center sm:items-start gap-6","children":[["$","div",null,{"className":"flex-shrink-0 transform transition-transform duration-300 group-hover:scale-110","children":["$","$L1b",null,{"alt":"Azim Memon","size":96,"showGlow":true,"showSpinBorder":true,"spinBorderSize":2}]}],["$","div",null,{"className":"flex-1 text-center sm:text-left","children":[["$","div",null,{"className":"mb-2","children":[["$","h3",null,{"className":"text-xl font-bold text-white mb-1 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-cyan-400 group-hover:to-purple-400 group-hover:bg-clip-text transition-all duration-300","children":["Written by ","Azim Memon"]}],"$L25"]}],"$L26","$L27"]}]]}]}]}]]}]}]
+25:["$","p",null,{"className":"text-sm text-cyan-400 font-medium","children":"Software Developer"}]
+26:["$","p",null,{"className":"text-gray-400 text-sm sm:text-base leading-relaxed","children":"Sharing insights on web development, microservices, and modern tech stacks. Passionate about building scalable applications and exploring new technologies."}]
+27:["$","div",null,{"className":"mt-4 inline-flex items-center gap-2 text-sm text-cyan-400 font-medium invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-300 translate-y-2 group-hover:translate-y-0","children":[["$","span",null,{"children":"Get in touch"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4 rotate-180 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}]]}]
+28:I[47502,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-9a7e8a8018ba81b7.js"],"default"]
+29:T8a3,┌───────────────────────────────────────────────────────────┐
+│               Docker Network (besu-network)               │
+│               Bridge Network: 172.25.0.0/16               │
+│                                                           │
+│    ┌─────────────┐  ┌──────────────┐  ┌──────────────┐    │
+│    │    Node-1   │  │    Node-2    │  │    Node-3    │    │
+│    │ (Validator) │  │  (Validator) │  │  (Validator) │    │
+│    │  HTTP:8545  │  │   HTTP:8546  │  │   HTTP:8547  │    │
+│    └──────┬──────┘  └───────┬──────┘  └────────┬─────┘    │
+│           │                 │                  │          │
+│           └─────────────────┼──────────────────┘          │
+│                             │                             │
+│                     ┌───────▼────────┐                    │
+│                     │     Node-4     │                    │
+│                     │   (RPC Node)   │                    │
+│                     │    HTTP:8548   │                    │
+│                     └────────────────┘                    │
+│                             │                             │
+└─────────────────────────────┼─────────────────────────────┘
+                              │
+                     ┌────────▼────────┐
+                     │  Local Hardhat  │
+                     │  (Dev Machine)  │
+                     │   Port: 8548    │
+                     └─────────────────┘
+23:[["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Introduction"}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Imagine spinning up an entire private blockchain network with four nodes, complete consensus, and production-ready configuration—all with a some Docker command. That's the power of containerizing Hyperledger Besu with Docker."}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"In this guide, you’ll build a fully functional private blockchain network using Docker and Hyperledger Besu. We’ll configure QBFT for robust Byzantine fault tolerance, use Docker to streamline deployment, and integrate tools like Hardhat, web3.js, and Remix for smart contract development. By the end, you’ll have a scalable, containerized blockchain ready to run anywhere — from local environments to production-grade Kubernetes clusters."}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"What you'll learn:"}]}],"\n",["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Setting up Hyperledger Besu nodes using Docker and Docker Compose"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Automatically generating QBFT network configuration with Besu's built-in tools"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Managing multi-node networks with docker-compose orchestration"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Understanding Besu's default ports and RPC configurations"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Deploying and interacting with Solidity smart contracts using local Hardhat"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Alternative deployment methods using web3.js and Remix"}],"\n"]}],"\n",["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"The Architecture: Understanding the Containerized System"}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Before diving into implementation, let's visualize the Docker-based architecture:"}],"\n",["$","$L28",null,{"className":"language-[diagram]","children":["$","code",null,{"className":"language-[diagram]","children":"$29"}]}],"\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6"]
+2a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Key Components:"}]}]
+2b:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Besu Validator Nodes (1-3)"}],": Byzantine fault-tolerant consensus participants that propose and finalize blocks"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Besu RPC Node (4)"}],": Dedicated endpoint for smart contract interactions (non-validator)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Docker Network"}],": Isolated virtual network for secure inter-node communication"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Volume Mounts"}],": Persistent storage for blockchain data and configurations"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Local Hardhat"}],": Development environment running on your machine for smart contract deployment"]}],"\n"]}]
+2c:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 1: Project Structure and Network Generation"}]
+2d:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 1: Create Project Directory Structure"}]
+2e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Create the complete directory structure for your containerized blockchain:"}]
+2f:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Create project root\nmkdir besu-docker-network\ncd besu-docker-network\n\n# Create necessary directories\nmkdir -p config\nmkdir -p nodes\nmkdir -p smart-contracts\nmkdir -p scripts\n\n# Your structure should look like:\n# besu-docker-network/\n# ├── docker-compose.yml\n# ├── .env\n# ├── config/\n# │   └── qbftConfigFile.json\n# ├── nodes/\n# │   └── networkFiles/  (will be generated)\n# ├── smart-contracts/\n# │   ├── hardhat.config.js\n# │   ├── package.json\n# │   └── contracts/\n# └── scripts/\n#     └── generate-network.sh\n"}]}]
+30:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 2: Pull Besu Docker Image"}]
+31:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"First, pull the official Hyperledger Besu image:"}]
+32:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Pull the latest Besu image\ndocker pull hyperledger/besu:latest\n\n# Verify the image\ndocker images | grep besu\n\n# Expected output:\n# hyperledger/besu   latest   abc123def456   2 days ago   850MB\n"}]}]
+33:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 3: Create QBFT Network Configuration File"}]
+34:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"config/qbftConfigFile.json"}]," to define your network topology:"]}]
+35:["$","$L28",null,{"className":"language-json","children":["$","code",null,{"className":"language-json","children":"{\n  \"genesis\": {\n    \"config\": {\n      \"chainId\": 1337,\n      \"berlinBlock\": 0,\n      \"londonBlock\": 0,\n      \"qbft\": {\n        \"epochlength\": 30000,\n        \"blockperiodseconds\": 2,\n        \"requesttimeoutseconds\": 4\n      }\n    },\n    \"nonce\": \"0x0\",\n    \"timestamp\": \"0x58ee40ba\",\n    \"gasLimit\": \"0x1C9C380\",\n    \"difficulty\": \"0x1\",\n    \"mixHash\": \"0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365\",\n    \"coinbase\": \"0x0000000000000000000000000000000000000000\",\n    \"alloc\": {\n      \"fe3b557e8fb62b89f4916b721be55ceb828dbd73\": {\n        \"balance\": \"0x200000000000000000000000000000000000000000000000000000000000000\"\n      }\n    }\n  },\n  \"blockchain\": {\n    \"nodes\": {\n      \"generate\": true,\n      \"count\": 4\n    }\n  }\n}\n"}]}]
+36:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Configuration Parameters Explained:"}]}]
+37:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"chainId"}],": Unique identifier for your private network (1337 is commonly used for local dev)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"blockperiodseconds"}],": Time between blocks (2 seconds = high throughput)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"requesttimeoutseconds"}],": Timeout for consensus messages"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"epochlength"}],": Blocks before validator set can be modified"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"gasLimit"}],": Maximum gas per block (0x1C9C380 = 30,000,000)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"count"}],": Number of nodes to generate (4 nodes = 3 validators + 1 RPC node)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"alloc"}],": Pre-funded accounts for testing (90M ETH in this example)"]}],"\n"]}]
+38:["$","blockquote",null,{"className":"border-l-2 sm:border-l-4 border-cyan-400/50 pl-4 sm:pl-6 py-2 sm:py-3 my-6 sm:my-8 text-gray-400 italic bg-cyan-400/5 rounded-r-lg text-sm sm:text-base","children":["\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"You can replace the sample address inside the alloc section with your own wallet’s public address to pre-fund your account when the network is initialized."}],"\n"]}]
+39:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 4: Generate Network Configuration Automatically"}]
+3a:["$","blockquote",null,{"className":"border-l-2 sm:border-l-4 border-cyan-400/50 pl-4 sm:pl-6 py-2 sm:py-3 my-6 sm:my-8 text-gray-400 italic bg-cyan-400/5 rounded-r-lg text-sm sm:text-base","children":["\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"💡 Quick Start Tip:"}]," Steps 4 and 5 explain the network generation process in detail so you understand what's happening under the hood. ",["$","strong",null,{"className":"font-semibold text-white","children":"If you prefer to skip the technical explanation and jump straight to automation, go directly to Step 6"}]," where we've created a convenient script that handles everything automatically."]}],"\n"]}]
+3b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Now comes the magic! Use Besu's built-in network generator to create all node keys, addresses, and genesis file automatically:"}]
+3c:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Generate complete network configuration\ndocker run --rm \\\n  -v $(pwd)/config:/config \\\n  -v $(pwd)/nodes:/nodes \\\n  hyperledger/besu:latest \\\n  operator generate-blockchain-config \\\n  --config-file=/config/qbftConfigFile.json \\\n  --to=/nodes/networkFiles \\\n  --private-key-file-name=key\n"}]}]
+3d:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"What just happened?"}]}]
+3e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"This single command:"}]
+3f:["$","ol",null,{"className":"list-decimal space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-5 sm:ml-6 marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Generated 4 node private keys and public keys"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Extracted Ethereum addresses for each node"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Created a complete genesis.json with proper extraData (containing validator addresses)"}],"\n"]}]
+40:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Verify the generated files:"}]}]
+41:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Check the generated structure\ntree nodes/networkFiles\n\n# Expected output:\n# nodes/networkFiles\n# ├── genesis.json\n# └── keys/\n#     ├── 0x1234...5678\n#     │   ├── key\n#     │   └── key.pub\n#     ├── 0x2345...6789\n#     │   ├── key\n#     │   └── key.pub\n#     ├── 0x3456...7890\n#     │   ├── key\n#     │   └── key.pub\n#     └── 0x4567...8901\n#         ├── key\n#         └── key.pub\n# 6 directories, 9 files\n"}]}]
+42:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"View generated genesis file:"}]}]
+43:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Pretty print the genesis file\ncat nodes/networkFiles/genesis.json | jq '.'\n\n# Check validator addresses in extraData\ncat nodes/networkFiles/genesis.json | jq -r '.extraData'\n"}]}]
+44:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Pro Tip:"}]," The ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"generate-blockchain-config"}]," command is a game-changer! It eliminates manual key generation, address extraction, and genesis file configuration—reducing setup time from hours to seconds."]}]
+45:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 5: Organize Node Directories"}]
+46:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Now that we've generated the network configuration, we need to organize the keys into individual node directories. ",["$","strong",null,{"className":"font-semibold text-white","children":"Note:"}]," This step is also automated in Step 6's script, but understanding the manual process helps you troubleshoot if needed."]}]
+47:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Create individual data directories for each node:"}]
+48:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Create data directories for all nodes\nfor i in {1..4}; do\n  mkdir -p nodes/node-$i/data\ndone\n\n# Copy node keys to respective directories\n# Get list of generated addresses\nADDRESSES=($(ls nodes/networkFiles/keys/))\n\n# Copy keys to node directories\nfor i in {1..4}; do\n  NODE_INDEX=$((i))\n  NODE_ADDRESS=${ADDRESSES[$NODE_INDEX]}\n\n  echo \"Setting up Node-$i with address: $NODE_ADDRESS\"\n\n  # Copy keys\n  cp nodes/networkFiles/keys/$NODE_ADDRESS/key nodes/node-$i/data/\n  cp nodes/networkFiles/keys/$NODE_ADDRESS/key.pub nodes/node-$i/data/\n\n  # Save address for reference\n  echo $NODE_ADDRESS > nodes/node-$i/data/address\ndone\n\necho \"Node directories configured successfully!\"\n"}]}]
+49:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Security best practices:"}]}]
+4a:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["The ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"nodes"}]," directory contains sensitive security data — including private keys, network configuration files, and other confidential node information."]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Do not expose, commit, or share any files from this directory publicly (for example, on GitHub or cloud storage)."}],"\n"]}]
+4b:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 6: Automated Network Generation Script (Recommended)"}]
+4c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["If you followed Steps 4 and 5 manually, great—you now understand the process! ",["$","strong",null,{"className":"font-semibold text-white","children":"For everyone else (and for future regenerations), use this automated script"}]," that combines both steps into a single command."]}]
+4d:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"This script handles:"}]
+4e:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Cleaning previous network files"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Generating network configuration with Besu"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Creating node directories"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Distributing keys to each node"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Securing private key permissions"}],"\n"]}]
+4f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"scripts/generate-network.sh"}],":"]}]
+e7:T86e,#!/bin/bash
+
+echo "🔧 Generating Besu QBFT Network Configuration..."
+echo "================================================"
+
+# Colors
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+RED='\033[0;31m'
+NC='\033[0m'
+
+# Check if config file exists
+if [ ! -f "config/qbftConfigFile.json" ]; then
+    echo -e "${RED}❌ Error: config/qbftConfigFile.json not found!${NC}"
+    exit 1
+fi
+
+# Clean previous network files
+echo -e "${YELLOW}🧹 Cleaning previous network files...${NC}"
+rm -rf nodes/networkFiles
+rm -rf nodes/node-*/data
+
+# Generate network configuration
+echo -e "${YELLOW}⚙️  Generating network configuration...${NC}"
+docker run --rm \
+  -v $(pwd)/config:/config \
+  -v $(pwd)/nodes:/nodes \
+  hyperledger/besu:latest \
+  operator generate-blockchain-config \
+  --config-file=/config/qbftConfigFile.json \
+  --to=/nodes/networkFiles \
+  --private-key-file-name=key
+
+# Check if generation was successful
+if [ ! -f "nodes/networkFiles/genesis.json" ]; then
+    echo -e "${RED}❌ Network generation failed!${NC}"
+    exit 1
+fi
+
+echo -e "${GREEN}✅ Network configuration generated successfully!${NC}"
+
+# Create node data directories
+echo -e "${YELLOW}📁 Creating node directories...${NC}"
+for i in {1..4}; do
+  mkdir -p nodes/node-$i/data
+done
+
+# Copy keys to node directories
+echo -e "${YELLOW}🔑 Distributing node keys...${NC}"
+ADDRESSES=($(ls nodes/networkFiles/keys/))
+
+for i in {1..4}; do
+  NODE_INDEX=$((i-1))
+  NODE_ADDRESS=${ADDRESSES[$NODE_INDEX]}
+
+  echo -e "  ${GREEN}✓${NC} Node-$i: $NODE_ADDRESS"
+
+  cp nodes/networkFiles/keys/$NODE_ADDRESS/key nodes/node-$i/data/
+  cp nodes/networkFiles/keys/$NODE_ADDRESS/key.pub nodes/node-$i/data/
+  echo $NODE_ADDRESS > nodes/node-$i/data/address
+done
+
+# Secure key files
+echo -e "${YELLOW}🔒 Securing private keys...${NC}"
+chmod 600 nodes/node-*/data/key
+chmod 700 nodes/node-*/data
+
+echo ""
+echo -e "${GREEN}✨ Network setup complete!${NC}"
+echo ""
+echo "📋 Generated Files:"
+echo "  - Genesis file: nodes/networkFiles/genesis.json"
+echo "  - Node keys: nodes/node-{1..4}/data/key"
+echo ""
+echo "Next steps:"
+echo "  Review the genesis file: cat nodes/networkFiles/genesis.json | jq"
+echo ""
+50:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"$e7"}]}]
+51:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Make it executable and run:"}]
+52:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"chmod +x scripts/generate-network.sh\n./scripts/generate-network.sh\n"}]}]
+53:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Expected output:"}]}]
+54:["$","$L28",null,{"className":"$undefined","children":["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"🔧 Generating Besu QBFT Network Configuration...\n================================================\n🧹 Cleaning previous network files...\n⚙️ Generating network configuration...\n   Network configuration generated successfully!\n📁 Creating node directories...\n🔑 Distributing node keys...\n  ✓ Node-1: 0x324582da6b84869df933e8b32f1b0d29250fce3b\n  ✓ Node-2: 0x407ad940ce5abee3eb1dc85e4184b8cd2b4b16b3\n  ✓ Node-3: 0x8d993e4e1ffcf2321a57e87f4133a9bb55766916\n  ✓ Node-4: 0xa3ff928703b195257c2ccb844df6723754a63f8c\n🔒 Securing private keys...\n\n✨ Network setup complete!\n\n📋 Generated Files:\n  - Genesis file: nodes/networkFiles/genesis.json\n  - Node keys: nodes/node-{1..4}/data/key\n\nNext steps:\n  Review the genesis file: cat nodes/networkFiles/genesis.json | jq\n"}]}]
+55:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 2: Docker Compose Configuration"}]
+56:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 1: Create Environment Configuration"}]
+57:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":".env"}]," file for easy configuration management:"]}]
+58:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Network Configuration\nNETWORK_ID=1337\n\n# Besu Version\nBESU_IMAGE=hyperledger/besu:latest\n\n# Gas Configuration\nMIN_GAS_PRICE=0\n"}]}]
+59:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 2: Create Docker Compose Configuration"}]
+5a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"docker-compose.yml"}]," with optimized QBFT configuration:"]}]
+e8:T176b,services:
+  node-1:
+    image: ${BESU_IMAGE}
+    container_name: besu-node-1
+    hostname: node-1
+    networks:
+      besu-network:
+        ipv4_address: 172.25.0.2
+    ports:
+      - '8545:8545' # HTTP JSON-RPC
+      - '30303:30303' # P2P
+    volumes:
+      - ./nodes:/nodes
+    command:
+      # Data and Network
+      - --data-path=/nodes/node-1/data
+      - --genesis-file=/nodes/networkFiles/genesis.json
+      - --network-id=${NETWORK_ID}
+
+      # HTTP JSON-RPC
+      - --rpc-http-enabled
+      - --rpc-http-host=0.0.0.0
+      - --rpc-http-port=8545
+      - --rpc-http-api=ETH,NET,QBFT,WEB3,ADMIN,DEBUG,TXPOOL
+      - --rpc-http-max-active-connections=80
+      - --rpc-http-cors-origins=*
+      - --host-allowlist=*
+
+      # P2P Networking
+      - --p2p-enabled=true
+      - --p2p-host=0.0.0.0
+      - --p2p-port=30303
+
+      # WS-RPC
+      - --rpc-ws-enabled=true
+      - --rpc-ws-host=0.0.0.0
+      - --rpc-ws-port=8546
+      - --rpc-ws-api=ETH,NET,QBFT,WEB3,ADMIN,DEBUG,TRACE,TXPOOL
+      - --rpc-ws-max-active-connections=80
+      - --data-storage-format=BONSAI
+      - --bootnodes=enode://$(cat /nodes/node-1/data/key.pub | sed 's/^0x//')@172.25.0.2:30303,enode://$(cat /nodes/node-2/data/key.pub | sed 's/^0x//')@172.25.0.3:30303,enode://$(cat /nodes/node-3/data/key.pub | sed 's/^0x//')@172.25.0.4:30303,enode://$(cat /nodes/node-4/data/key.pub | sed 's/^0x//')@172.25.0.5:30303
+      - --min-gas-price=${MIN_GAS_PRICE}
+    restart: unless-stopped
+
+  node-2:
+    image: ${BESU_IMAGE}
+    container_name: besu-node-2
+    hostname: node-2
+    networks:
+      besu-network:
+        ipv4_address: 172.25.0.3
+    ports:
+      - '8546:8545' # HTTP JSON-RPC
+      - '30304:30303' # P2P
+    volumes:
+      - ./nodes:/nodes
+    depends_on:
+      - node-1
+    command:
+      # Data and Network
+      - --data-path=/nodes/node-2/data
+      - --genesis-file=/nodes/networkFiles/genesis.json
+      - --network-id=${NETWORK_ID}
+
+      # HTTP JSON-RPC
+      - --rpc-http-enabled
+      - --rpc-http-host=0.0.0.0
+      - --rpc-http-port=8545
+      - --rpc-http-api=ETH,NET,QBFT,WEB3,ADMIN
+      - --rpc-http-cors-origins=*
+      - --rpc-http-max-active-connections=80
+      - --host-allowlist=*
+
+      # P2P Networking
+      - --p2p-enabled=true
+      - --p2p-host=0.0.0.0
+      - --p2p-port=30303
+
+      # WS-RPC
+      - --rpc-ws-enabled=true
+      - --rpc-ws-host=0.0.0.0
+      - --rpc-ws-port=8546
+      - --rpc-ws-api=ETH,NET,QBFT,WEB3,ADMIN,DEBUG,TRACE,TXPOOL
+      - --rpc-ws-max-active-connections=80
+      - --data-storage-format=BONSAI
+      - --bootnodes=enode://$(cat /nodes/node-1/data/key.pub | sed 's/^0x//')@172.25.0.2:30303,enode://$(cat /nodes/node-2/data/key.pub | sed 's/^0x//')@172.25.0.3:30303,enode://$(cat /nodes/node-3/data/key.pub | sed 's/^0x//')@172.25.0.4:30303,enode://$(cat /nodes/node-4/data/key.pub | sed 's/^0x//')@172.25.0.5:30303
+      - --min-gas-price=${MIN_GAS_PRICE}
+    restart: unless-stopped
+
+  node-3:
+    image: ${BESU_IMAGE}
+    container_name: besu-node-3
+    hostname: node-3
+    networks:
+      besu-network:
+        ipv4_address: 172.25.0.4
+    ports:
+      - '8547:8545' # HTTP JSON-RPC
+      - '30305:30303' # P2P
+    volumes:
+      - ./nodes:/nodes
+    depends_on:
+      - node-1
+    command:
+      # Data and Network
+      - --data-path=/nodes/node-3/data
+      - --genesis-file=/nodes/networkFiles/genesis.json
+      - --network-id=${NETWORK_ID}
+
+      # HTTP JSON-RPC
+      - --rpc-http-enabled
+      - --rpc-http-host=0.0.0.0
+      - --rpc-http-port=8545
+      - --rpc-http-api=ETH,NET,QBFT,WEB3,ADMIN
+      - --rpc-http-max-active-connections=80
+      - --rpc-http-cors-origins=*
+      - --host-allowlist=*
+
+      # P2P Networking
+      - --p2p-enabled=true
+      - --p2p-host=0.0.0.0
+      - --p2p-port=30303
+
+      # WS-RPC
+      - --rpc-ws-enabled=true
+      - --rpc-ws-host=0.0.0.0
+      - --rpc-ws-port=8546
+      - --rpc-ws-api=ETH,NET,QBFT,WEB3,ADMIN,DEBUG,TRACE,TXPOOL
+      - --rpc-ws-max-active-connections=80
+      - --data-storage-format=BONSAI
+      - --bootnodes=enode://$(cat /nodes/node-1/data/key.pub | sed 's/^0x//')@172.25.0.2:30303,enode://$(cat /nodes/node-2/data/key.pub | sed 's/^0x//')@172.25.0.3:30303,enode://$(cat /nodes/node-3/data/key.pub | sed 's/^0x//')@172.25.0.4:30303,enode://$(cat /nodes/node-4/data/key.pub | sed 's/^0x//')@172.25.0.5:30303
+      - --min-gas-price=${MIN_GAS_PRICE}
+    restart: unless-stopped
+
+  node-4:
+    image: ${BESU_IMAGE}
+    container_name: besu-node-4
+    hostname: node-4
+    networks:
+      besu-network:
+        ipv4_address: 172.25.0.5
+    ports:
+      - '8548:8545' # HTTP JSON-RPC
+      - '30306:30303' # P2P
+    volumes:
+      - ./nodes:/nodes
+    depends_on:
+      - node-1
+    command:
+      # Data and Network
+      - --data-path=/nodes/node-4/data
+      - --genesis-file=/nodes/networkFiles/genesis.json
+      - --network-id=${NETWORK_ID}
+
+      # HTTP JSON-RPC (RPC Node - no ADMIN/QBFT APIs for security)
+      - --rpc-http-enabled
+      - --rpc-http-host=0.0.0.0
+      - --rpc-http-port=8545
+      - --rpc-http-api=ETH,NET,WEB3,DEBUG,TRACE,TXPOOL
+      - --rpc-http-max-active-connections=80
+      - --rpc-http-cors-origins=*
+      - --host-allowlist=*
+
+      # P2P Networking
+      - --p2p-enabled=true
+      - --p2p-host=0.0.0.0
+      - --p2p-port=30303
+      - --rpc-ws-enabled=true
+      - --rpc-ws-host=0.0.0.0
+      - --rpc-ws-port=8546
+      - --rpc-ws-api=ETH,NET,WEB3,DEBUG,TRACE,TXPOOL
+      - --rpc-ws-max-active-connections=80
+      - --data-storage-format=BONSAI
+      - --bootnodes=enode://$(cat /nodes/node-1/data/key.pub | sed 's/^0x//')@172.25.0.2:30303,enode://$(cat /nodes/node-2/data/key.pub | sed 's/^0x//')@172.25.0.3:30303,enode://$(cat /nodes/node-3/data/key.pub | sed 's/^0x//')@172.25.0.4:30303,enode://$(cat /nodes/node-4/data/key.pub | sed 's/^0x//')@172.25.0.5:30303
+      - --min-gas-price=${MIN_GAS_PRICE}
+    restart: unless-stopped
+
+networks:
+  besu-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.25.0.0/16
+5b:["$","$L28",null,{"className":"language-yaml","children":["$","code",null,{"className":"language-yaml","children":"$e8"}]}]
+5c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Key Docker Compose Features:"}]}]
+5d:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Official Image"}],": ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"hyperledger/besu:latest"}]]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Volume Mounts"}],": Each node's data directory is mounted for persistent storage"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Shared Genesis"}],": All nodes share the same genesis file"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Network Isolation"}],": All nodes communicate via ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"besu-network"}]," bridge"]}],"\n"]}]
+5e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Understanding Port Mappings:"}]}]
+5f:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Default Besu Ports (inside containers)"}],":"]}],"\n",["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"8545"}],": HTTP JSON-RPC (standard default)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"8546"}],": WebSocket JSON-RPC (standard default)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"8551"}],": Engine API (not used in this setup)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"30303"}],": P2P networking"]}],"\n"]}],"\n"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Host Port Mappings (exposed to your machine)"}],":"]}],"\n",["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Node-1: ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"localhost:8545"}]," → container HTTP 8545"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Node-2: ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"localhost:8546"}]," → container HTTP 8545"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Node-3: ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"localhost:8547"}]," → container HTTP 8545"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Node-4: ","$Le9"," → container HTTP 8545"]}],"\n"]}],"\n"]}],"\n"]}]
+60:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Why different host ports?"}]," Each container uses the standard port 8545 internally, but we map them to different host ports (8545, 8546, 8547, 8548) to avoid conflicts. This allows you to access all nodes simultaneously from your machine."]}]
+61:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Important:"}]," The ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"$$(cat nodes/node-1/data/key.pub | tr -d '\\n')"}]," command reads the bootnode's public key directly from the mounted volume. This eliminates manual enode URL configuration!"]}]
+62:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Security Note:"}]," The ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"--rpc-http-cors-origins=*"}]," and ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"--host-allowlist=*"}]," settings are permissive and suitable for local development. For production deployments:"]}]
+63:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Restrict CORS to specific origins"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Limit host allowlist to known hosts"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Consider adding authentication"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Never expose ADMIN APIs publicly"}],"\n"]}]
+64:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 3: Starting and Managing the Blockchain Network"}]
+65:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 1: Start the Network"}]
+66:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Launch all containers:"}]
+67:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Start all nodes in detached mode\ndocker compose up -d\n\n# Watch the logs in real-time\ndocker compose logs -f\n"}]}]
+68:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Expected startup sequence:"}]}]
+69:["$","$L28",null,{"className":"$undefined","children":["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"[+] Running 5/5\n ✔ Network besu-docker-network_besu-network      Created          0.1s\n ✔ Container besu-node-1                         Started          2.3s\n ✔ Container besu-node-2                         Started          2.1s\n ✔ Container besu-node-3                         Started          2.2s\n ✔ Container besu-node-4                         Started          2.3s\n"}]}]
+6a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Success indicators in logs:"}]}]
+6b:["$","$L28",null,{"className":"$undefined","children":["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"besu-node-1  | INFO  | EthProtocolManager | P2PNetwork | enode://abc123...@node-1:30303\nbesu-node-1  | INFO  | JsonRpcHttpService | HTTP JSON-RPC service started\nbesu-node-1  | INFO  | QbftBesuControllerBuilder | Starting QBFT BlockchainMiner\nbesu-node-2  | INFO  | PeerDiscoveryAgent | Discovered 1 peers\nbesu-node-1  | INFO  | QbftRound | Imported #1 / 0 tx / 0 pending\nbesu-node-2  | INFO  | QbftRound | Imported #1 / 0 tx / 0 pending\nbesu-node-3  | INFO  | QbftRound | Imported #1 / 0 tx / 0 pending\n"}]}]
+6c:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 2: Verify Network Status"}]
+6d:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Check that all containers are running:"}]
+6e:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Check container status\ndocker compose ps\n\n# Expected output showing all containers running\nNAME            IMAGE                        STATUS\nbesu-node-1     hyperledger/besu:latest      Up 2 minutes\nbesu-node-2     hyperledger/besu:latest      Up 2 minutes\nbesu-node-3     hyperledger/besu:latest      Up 2 minutes\nbesu-node-4     hyperledger/besu:latest      Up 2 minutes\n"}]}]
+6f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Verify peer connections:"}]}]
+70:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Check peers on node-1\ncurl -X POST --data '{\n  \"jsonrpc\":\"2.0\",\n  \"method\":\"admin_peers\",\n  \"params\":[],\n  \"id\":1\n}' http://localhost:8545 | jq '.result | length'\n\n# Expected: 3 (nodes 2, 3, and 4 connected to node-1)\n"}]}]
+71:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Check block production:"}]}]
+72:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Get current block number\ncurl -X POST --data '{\n  \"jsonrpc\":\"2.0\",\n  \"method\":\"eth_blockNumber\",\n  \"params\":[],\n  \"id\":1\n}' http://localhost:8545 | jq -r '.result' | xargs printf \"%d\\n\"\n\n# Wait 10 seconds and check again - should increase by ~5 blocks\nsleep 10\ncurl -X POST --data '{\n  \"jsonrpc\":\"2.0\",\n  \"method\":\"eth_blockNumber\",\n  \"params\":[],\n  \"id\":1\n}' http://localhost:8545 | jq -r '.result' | xargs printf \"%d\\n\"\n"}]}]
+73:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 3: Create Monitoring Script"}]
+74:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"scripts/network-status.sh"}]," for quick health checks:"]}]
+ea:T6bb,#!/bin/bash
+
+# Colors
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+RED='\033[0;31m'
+NC='\033[0m'
+
+echo "🔍 Besu Network Status"
+echo "======================"
+echo ""
+
+# Function to check node
+check_node() {
+    local name=$1
+    local port=$2
+
+    response=$(curl -s -X POST --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' \
+        http://localhost:$port 2>/dev/null)
+
+    if [ $? -eq 0 ]; then
+        block=$(echo $response | jq -r '.result' | xargs printf "%d" 2>/dev/null)
+        echo -e "${GREEN}✓${NC} $name (Port $port) - Block: $block"
+    else
+        echo -e "${RED}✗${NC} $name (Port $port) - Unreachable"
+    fi
+}
+
+# Check all nodes
+echo "📦 Nodes Status:"
+check_node "Node-1 (Validator)" 8545
+check_node "Node-2 (Validator)" 8546
+check_node "Node-3 (Validator)" 8547
+check_node "Node-4 (RPC Node)" 8548
+
+echo ""
+echo "🔗 Network Info:"
+peers=$(curl -s -X POST --data '{"jsonrpc":"2.0","method":"admin_peers","params":[],"id":1}' \
+    http://localhost:8545 | jq -r '.result | length')
+echo "  Connected Peers: $peers"
+
+# Check if blocks are being produced
+block1=$(curl -s -X POST --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' \
+    http://localhost:8545 | jq -r '.result' | xargs printf "%d")
+sleep 5
+block2=$(curl -s -X POST --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' \
+    http://localhost:8545 | jq -r '.result' | xargs printf "%d")
+
+if [ $block2 -gt $block1 ]; then
+    echo -e "  Block Production: ${GREEN}Active${NC} (+$((block2-block1)) blocks in 5s)"
+else
+    echo -e "  Block Production: ${RED}Stopped${NC}"
+fi
+
+echo ""
+echo "🐳 Docker Containers:"
+docker compose ps --format "table {{.Service}}\t{{.Status}}"
+75:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"$ea"}]}]
+76:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Make it executable and run:"}]
+77:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"chmod +x scripts/network-status.sh\n./scripts/network-status.sh\n"}]}]
+78:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 4: Essential Docker Management Commands"}]
+79:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# View logs from all containers\ndocker compose logs -f\n\n# View logs from specific container\ndocker compose logs -f node-1\n\n# View last 100 lines\ndocker compose logs --tail=100 node-1\n\n# Stop all containers\ndocker compose stop\n\n# Start stopped containers\ndocker compose start\n\n# Restart all containers\ndocker compose restart\n\n# Stop and remove containers (keeps data)\ndocker compose down\n\n# Stop, remove containers and volumes (DELETES ALL DATA)\ndocker compose down -v\n\n# Execute command in running container\ndocker compose exec node-1 bash\n\n# View resource usage\ndocker stats\n\n# Check Besu version\ndocker compose exec node-1 besu --version\n"}]}]
+7a:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 4: Smart Contract Development with Local Hardhat"}]
+7b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Now that your Besu network is running, you'll set up a local Hardhat environment on your development machine to deploy and interact with smart contracts."}]
+7c:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 1: Initialize Hardhat Project Locally"}]
+7d:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Navigate to smart-contracts directory\ncd smart-contracts\n\n# Initialize Hardhat (use Hardhat v2)\nnpx hardhat --init\n"}]}]
+7e:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step"}]
+7f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"2: Configure Hardhat for Besu Network"}]
+80:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create or Update ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"smart-contracts/hardhat.config.js"}],":"]}]
+81:["$","$L28",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"require('@nomicfoundation/hardhat-toolbox');\n\nmodule.exports = {\n  solidity: {\n    version: '0.8.28', // Use this or your project's Solidity version configured in Hardhat\n    settings: {\n      optimizer: {\n        enabled: true,\n        runs: 200,\n      },\n    },\n  },\n  networks: {\n    besu: {\n      url: 'http://localhost:8548', // Node-4 RPC endpoint\n      chainId: 1337,\n      accounts: [\n        '0x8f2a55949038a9610f50fb23b5883af3b4ecb3c3bb792cbcefbd1542c692be63',\n      ],\n      gasPrice: 0,\n      gas: 10000000,\n    },\n  },\n  paths: {\n    sources: './contracts',\n    tests: './test',\n    cache: './cache',\n    artifacts: './artifacts',\n  },\n};\n"}]}]
+82:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Network Configuration Explained:"}]}]
+83:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"url"}],": Points to Node-4 (RPC node) at ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"localhost:8548"}]]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"chainId"}],": Must match the chainId in your genesis file (1337)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"accounts"}],": Private key for the pre-funded account from genesis"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"gasPrice"}],": Set to 0 for free transactions in private network"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"gas"}],": High gas limit for complex contracts"]}],"\n"]}]
+84:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 3: Create Smart Contract"}]
+85:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"smart-contracts/contracts/SimpleStorage.sol"}],":"]}]
+eb:T5b1,// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.28;
+
+contract SimpleStorage {
+    uint256 private storedData;
+    address public owner;
+
+    event DataStored(uint256 indexed newValue, address indexed setter, uint256 timestamp);
+    event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Only owner can call this function");
+        _;
+    }
+
+    constructor(uint256 initialValue) {
+        owner = msg.sender;
+        storedData = initialValue;
+        emit DataStored(initialValue, msg.sender, block.timestamp);
+    }
+
+    function set(uint256 newValue) public {
+        storedData = newValue;
+        emit DataStored(newValue, msg.sender, block.timestamp);
+    }
+
+    function get() public view returns (uint256) {
+        return storedData;
+    }
+
+    function increment() public {
+        storedData += 1;
+        emit DataStored(storedData, msg.sender, block.timestamp);
+    }
+
+    function decrement() public {
+        require(storedData > 0, "Value cannot go below zero");
+        storedData -= 1;
+        emit DataStored(storedData, msg.sender, block.timestamp);
+    }
+
+    function transferOwnership(address newOwner) public onlyOwner {
+        require(newOwner != address(0), "New owner cannot be zero address");
+        address previousOwner = owner;
+        owner = newOwner;
+        emit OwnershipTransferred(previousOwner, newOwner);
+    }
+}
+86:["$","$L28",null,{"className":"language-solidity","children":["$","code",null,{"className":"language-solidity","children":"$eb"}]}]
+87:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 4: Create Deployment Script"}]
+88:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"smart-contracts/scripts/deploy.js"}],":"]}]
+ec:Ta9c,const hre = require('hardhat');
+const fs = require('fs');
+
+async function main() {
+  console.log('🚀 Starting deployment to Besu network...\n');
+
+  const initialValue = 42;
+
+  // Get deployer account
+  const [deployer] = await hre.ethers.getSigners();
+  console.log('Deploying contracts with account:', deployer.address);
+
+  // Check balance
+  const balance = await hre.ethers.provider.getBalance(deployer.address);
+  console.log('Account balance:', hre.ethers.formatEther(balance), 'ETH\n');
+
+  // Get current block number
+  const blockNumber = await hre.ethers.provider.getBlockNumber();
+  console.log('Current block number:', blockNumber);
+
+  // Deploy SimpleStorage
+  console.log('\n📝 Deploying SimpleStorage contract...');
+  const SimpleStorage = await hre.ethers.getContractFactory('SimpleStorage');
+  const gasPrice = hre.ethers.parseUnits('1', 'gwei'); // 1 gwei
+  const simpleStorage = await SimpleStorage.deploy(initialValue, {
+    gasPrice: gasPrice,
+  });
+
+  await simpleStorage.waitForDeployment();
+
+  const address = await simpleStorage.getAddress();
+  console.log('✅ SimpleStorage deployed to:', address);
+  console.log('Initial value:', await simpleStorage.get());
+
+  // Get deployment transaction details
+  const deploymentTx = simpleStorage.deploymentTransaction();
+  const receipt = await deploymentTx.wait();
+
+  console.log('\n📊 Deployment Transaction:');
+  console.log('  Hash:', deploymentTx.hash);
+  console.log('  Block:', receipt.blockNumber);
+  console.log('  Gas Used:', receipt.gasUsed.toString());
+  console.log('  Status:', receipt.status === 1 ? '✅ Success' : '❌ Failed');
+
+  // Save deployment info
+  const deployment = {
+    network: hre.network.name,
+    chainId: (await hre.ethers.provider.getNetwork()).chainId.toString(),
+    contractAddress: address,
+    deployer: deployer.address,
+    initialValue: initialValue,
+    blockNumber: receipt.blockNumber,
+    transactionHash: deploymentTx.hash,
+    gasUsed: receipt.gasUsed.toString(),
+    timestamp: new Date().toISOString(),
+  };
+
+  console.log('\n📄 Deployment Summary:');
+  console.log(JSON.stringify(deployment, null, 2));
+
+  // Save to file
+  const deploymentsFile = 'deployments.json';
+  let deployments = [];
+
+  if (fs.existsSync(deploymentsFile)) {
+    deployments = JSON.parse(fs.readFileSync(deploymentsFile, 'utf8'));
+  }
+
+  deployments.push(deployment);
+  fs.writeFileSync(deploymentsFile, JSON.stringify(deployments, null, 2));
+
+  console.log(`\n💾 Deployment info saved to ${deploymentsFile}`);
+  console.log('\n🎉 Deployment completed successfully!');
+}
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error('❌ Deployment failed:', error);
+    process.exit(1);
+  });
+89:["$","$L28",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ec"}]}]
+8a:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 5: Deploy Contract Using Local Hardhat"}]
+8b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Compile and deploy the smart contract:"}]
+8c:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Compile contracts\nnpx hardhat compile\n\n# Deploy to Besu network\nnpx hardhat run scripts/deploy.js --network besu\n"}]}]
+8d:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Expected output:"}]}]
+8e:["$","$L28",null,{"className":"$undefined","children":["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"🚀 Starting deployment to Besu network...\n\nDeploying contracts with account: 0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73\nAccount balance: 904625697166532776746648320380374280103671755200316906558.262375061821325312 ETH\n\nCurrent block number: 673\n\n📝 Deploying SimpleStorage contract...\n✅ SimpleStorage deployed to: 0x42699A7612A82f1d9C36148af9C77354759b210b\nInitial value: 42n\n\n📊 Deployment Transaction:\n  Hash: 0xe742a1aa6d7f88898b95f993a41eb40b1e13181f5f5a8bec0542a6a0601aed44\n  Block: 674\n  Gas Used: 303383\n  Status: ✅ Success\n\n📄 Deployment Summary:\n{\n  \"network\": \"besu\",\n  \"chainId\": \"1337\",\n  \"contractAddress\": \"0x42699A7612A82f1d9C36148af9C77354759b210b\",\n  \"deployer\": \"0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73\",\n  \"initialValue\": 42,\n  \"blockNumber\": 674,\n  \"transactionHash\": \"0xe742a1aa6d7f88898b95f993a41eb40b1e13181f5f5a8bec0542a6a0601aed44\",\n  \"gasUsed\": \"303383\",\n  \"timestamp\": \"2025-10-25T11:32:49.452Z\"\n}\n\n💾 Deployment info saved to deployments.json\n\n🎉 Deployment completed successfully!\n"}]}]
+8f:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 5: Interacting with Deployed Smart Contracts"}]
+90:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 1: Create Interaction Script"}]
+91:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Create ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"smart-contracts/scripts/interact.js"}],":"]}]
+ed:Td84,const hre = require('hardhat');
+const fs = require('fs');
+
+async function main() {
+  console.log('🔗 Interacting with SimpleStorage Contract\n');
+
+  // Load deployment info
+  const deploymentsFile = 'deployments.json';
+  if (!fs.existsSync(deploymentsFile)) {
+    console.error('❌ No deployments found. Please deploy the contract first.');
+    process.exit(1);
+  }
+  const gasPrice = hre.ethers.parseUnits('1', 'gwei');
+
+  const deployments = JSON.parse(fs.readFileSync(deploymentsFile, 'utf8'));
+  const latestDeployment = deployments[deployments.length - 1];
+  const contractAddress = latestDeployment.contractAddress;
+
+  console.log('Contract Address:', contractAddress);
+  console.log('Network:', hre.network.name);
+  console.log('');
+
+  // Get contract instance
+  const SimpleStorage = await hre.ethers.getContractFactory('SimpleStorage');
+  const simpleStorage = SimpleStorage.attach(contractAddress);
+
+  // Get signer
+  const [signer] = await hre.ethers.getSigners();
+  console.log('Interacting as:', signer.address);
+  console.log('');
+
+  // Read current value
+  console.log('📖 Reading current value...');
+  const currentValue = await simpleStorage.get();
+  console.log('Current stored value:', currentValue.toString());
+  console.log('');
+  const txOptions = { gasPrice };
+  // Update value
+  console.log('✏️  Setting new value to 123...');
+  const setTx = await simpleStorage.set(123, txOptions);
+  console.log('Transaction sent:', setTx.hash);
+  const setReceipt = await setTx.wait();
+  console.log('Transaction confirmed in block:', setReceipt.blockNumber);
+  console.log('Gas used:', setReceipt.gasUsed.toString());
+  console.log('Updated value:', (await simpleStorage.get()).toString());
+  console.log('');
+
+  // Increment value
+  console.log('➕ Incrementing value...');
+  const incTx = await simpleStorage.increment(txOptions);
+  console.log('Transaction sent:', incTx.hash);
+  await incTx.wait();
+  console.log(
+    'New value after increment:',
+    (await simpleStorage.get()).toString()
+  );
+  console.log('');
+
+  // Decrement value
+  console.log('➖ Decrementing value...');
+  const decTx = await simpleStorage.decrement(txOptions);
+  await decTx.wait();
+  console.log(
+    'New value after decrement:',
+    (await simpleStorage.get()).toString()
+  );
+  console.log('');
+
+  // Query events
+  console.log('📜 Recent DataStored events:');
+  const filter = simpleStorage.filters.DataStored();
+  const events = await simpleStorage.queryFilter(filter, -20);
+
+  if (events.length === 0) {
+    console.log('  No events found');
+  } else {
+    events.forEach((event, index) => {
+      console.log(`  Event ${index + 1}:`);
+      console.log(`    Value: ${event.args.newValue}`);
+      console.log(`    Setter: ${event.args.setter}`);
+      console.log(
+        `    Timestamp: ${new Date(
+          Number(event.args.timestamp) * 1000
+        ).toISOString()}`
+      );
+      console.log(`    Block: ${event.blockNumber}`);
+      console.log(`    Tx Hash: ${event.transactionHash}`);
+      console.log('');
+    });
+  }
+
+  // Get contract owner
+  console.log('👤 Contract Information:');
+  console.log('  Owner:', await simpleStorage.owner(txOptions));
+  console.log('  Current Value:', (await simpleStorage.get()).toString());
+
+  console.log('\n✅ Interaction completed successfully!');
+}
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error('❌ Interaction failed:', error);
+    process.exit(1);
+  });
+92:["$","$L28",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ed"}]}]
+93:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 2: Execute Interaction Script"}]
+94:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Run the interaction script:"}]
+95:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Interact with deployed contract\nnpx hardhat run scripts/interact.js --network besu\n"}]}]
+96:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Expected output:"}]}]
+ee:T5af,🔗 Interacting with SimpleStorage Contract
+
+Contract Address: 0x42699A7612A82f1d9C36148af9C77354759b210b
+Network: besu
+
+Interacting as: 0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73
+
+📖 Reading current value...
+Current stored value: 42
+
+✏️  Setting new value to 123...
+Transaction sent: 0x1f06e5d8b85336ff359d9558f39388c009a46e722a7558a89548e9ddba456a1c
+Transaction confirmed in block: 746
+Gas used: 28253
+Updated value: 123
+
+➕ Incrementing value...
+Transaction sent: 0xde608c22f6da0b7a5dc57c154958ed2ef2cd95bf6c475ef7a8a41db2311ce4c8
+New value after increment: 124
+
+➖ Decrementing value...
+New value after decrement: 123
+
+📜 Recent DataStored events:
+  Event 1:
+    Value: 123
+    Setter: 0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73
+    Timestamp: 2025-10-25T11:35:13.000Z
+    Block: 746
+    Tx Hash: 0x1f06e5d8b85336ff359d9558f39388c009a46e722a7558a89548e9ddba456a1c
+
+  Event 2:
+    Value: 124
+    Setter: 0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73
+    Timestamp: 2025-10-25T11:35:15.000Z
+    Block: 747
+    Tx Hash: 0xde608c22f6da0b7a5dc57c154958ed2ef2cd95bf6c475ef7a8a41db2311ce4c8
+
+  Event 3:
+    Value: 123
+    Setter: 0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73
+    Timestamp: 2025-10-25T11:35:17.000Z
+    Block: 748
+    Tx Hash: 0x30f9bd4b0d8094e500f2626ee39618519339ac3511fedbeef24261affce62d69
+
+👤 Contract Information:
+  Owner: 0xFE3B557E8Fb62b89F4916B721be55cEb828dBd73
+  Current Value: 123
+
+✅ Interaction completed successfully!
+97:["$","$L28",null,{"className":"$undefined","children":["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"$ee"}]}]
+98:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 6: Alternative Deployment Methods"}]
+99:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Option 1: Using Web3.js"}]
+9a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"If you prefer using web3.js instead of Hardhat, here's how to deploy contracts:"}]
+9b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Install web3.js:"}]}]
+9c:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"npm install web3\n"}]}]
+9d:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":["Create deployment script ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"smart-contracts/scripts/deploy-web3.js"}],":"]}]}]
+ef:T80c,const { Web3 } = require('web3');
+const fs = require('fs');
+const path = require('path');
+
+// Connect to Besu node
+const web3 = new Web3('http://localhost:8548');
+
+// Account configuration
+const privateKey =
+  '0x8f2a55949038a9610f50fb23b5883af3b4ecb3c3bb792cbcefbd1542c692be63';
+const account = web3.eth.accounts.privateKeyToAccount(privateKey);
+web3.eth.accounts.wallet.add(account);
+
+async function deploy() {
+  console.log('🚀 Deploying with Web3.js...\n');
+  console.log('Using account:', account.address);
+
+  // Load compiled contract
+  const contractPath = path.join(
+    __dirname,
+    '../artifacts/contracts/SimpleStorage.sol/SimpleStorage.json'
+  );
+  const contractJson = JSON.parse(fs.readFileSync(contractPath, 'utf8'));
+
+  const SimpleStorage = new web3.eth.Contract(contractJson.abi);
+
+  // Check balance
+  const balance = await web3.eth.getBalance(account.address);
+  console.log('Balance:', web3.utils.fromWei(balance, 'ether'), 'ETH\n');
+
+  // Deploy contract
+  console.log('📝 Deploying SimpleStorage...');
+
+  const deployTx = SimpleStorage.deploy({
+    data: contractJson.bytecode,
+    arguments: [42], // Initial value
+  });
+
+  const gas = await deployTx.estimateGas({ from: account.address });
+  console.log('Estimated gas:', gas);
+
+  const contract = await deployTx.send({
+    from: account.address,
+    gas: Number(gas) + 100000,
+    gasPrice: web3.utils.toWei('1', 'gwei'),
+  });
+
+  console.log('\n✅ Contract deployed at:', contract.options.address);
+
+  // Test contract
+  const value = await contract.methods.get().call();
+  console.log('Initial value:', value);
+
+  // Save deployment info
+  const deployment = {
+    address: contract.options.address,
+    deployer: account.address,
+    timestamp: new Date().toISOString(),
+  };
+
+  fs.writeFileSync('deployment-web3.json', JSON.stringify(deployment, null, 2));
+
+  console.log('\n💾 Deployment info saved to deployment-web3.json');
+}
+
+deploy()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error('❌ Deployment failed:', error);
+    process.exit(1);
+  });
+9e:["$","$L28",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ef"}]}]
+9f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Run the deployment:"}]}]
+a0:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# First compile with Hardhat\nnpx hardhat compile\n\n# Deploy using web3.js\nnode scripts/deploy-web3.js\n"}]}]
+a1:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Option 2: Using Remix IDE"}]
+a2:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Remix provides a user-friendly interface for contract deployment:"}]
+a3:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Step 1: Access Remix"}]}]
+a4:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Open ",["$","$L24",null,{"href":"https://remix.ethereum.org","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Remix IDE"}]," in your browser."]}]
+a5:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Step 2: Create Contract"}]}]
+a6:["$","ol",null,{"className":"list-decimal space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-5 sm:ml-6 marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Create a new file: ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"SimpleStorage.sol"}]]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Paste your Solidity code"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Compile the contract (Compiler tab)"}],"\n"]}]
+a7:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Step 3: Connect to Besu Network"}]}]
+a8:["$","ol",null,{"className":"list-decimal space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-5 sm:ml-6 marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Go to the \"Deploy & Run Transactions\" tab"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Select \"Injected Provider - MetaMask\" or \"External Http Provider\""}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["If using External Http Provider, enter: ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"http://localhost:8548"}]]}],"\n"]}]
+a9:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Step 4: Configure MetaMask (Optional)"}]}]
+aa:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"If using MetaMask:"}]
+ab:["$","ol",null,{"className":"list-decimal space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-5 sm:ml-6 marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Open MetaMask"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Add Custom Network:","\n",["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Network Name"}],": Besu Local"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"RPC URL"}],": ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"http://localhost:8548"}]]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Chain ID"}],": 1337"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Currency Symbol"}],": ETH"]}],"\n"]}],"\n"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Import account using the private key from your genesis file"}],"\n"]}]
+ac:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Step 5: Deploy Contract"}]}]
+ad:["$","ol",null,{"className":"list-decimal space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-5 sm:ml-6 marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Set constructor parameter (e.g., 42)"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Click \"Deploy\""}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Confirm the transaction"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Contract address will appear in the \"Deployed Contracts\" section"}],"\n"]}]
+ae:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Step 6: Interact with Contract"}]}]
+af:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Use Remix's interface to:"}]
+b0:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Call ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"get()"}]," to read the value"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Call ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"set(uint256)"}]," to update the value"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Call ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"increment()"}]," and ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"decrement()"}]]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"View transaction logs and events"}],"\n"]}]
+b1:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Part 7: Adding BlockScout Explorer for Network Visualization"}]
+b2:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"After all those command-line interactions, things might start feeling a bit… exhausting, right? No visuals — just endless logs, hashes, and terminal output."}]
+b3:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Let’s fix that. 👀"}]
+b4:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"It’s time to bring your private network to life with BlockScout — a powerful, open-source blockchain explorer that provides a clean, interactive dashboard to visualize blocks, transactions, and smart contracts in real time."}]
+b5:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"With BlockScout, you can finally see your Besu network in action — making debugging, monitoring, and development not just easier, but also way more fun. 🚀"}]
+b6:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"What is BlockScout?"}]
+b7:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"BlockScout is a full-featured blockchain explorer that allows you to:"}]
+b8:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"View real-time block production and transactions"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Explore deployed smart contracts and their source code"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Monitor network statistics and validator performance"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Verify and interact with smart contracts directly from the UI"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Track token transfers and wallet balances"}],"\n"]}]
+b9:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 1: Clone BlockScout Repository"}]
+ba:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"First, clone the official BlockScout Docker setup:"}]
+bb:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Navigate to your project root\ncd besu-docker-network\n\n# Clone BlockScout\ngit clone https://github.com/blockscout/blockscout.git blockscout-explorer\n\n# Navigate to docker-compose directory\ncd blockscout-explorer/docker-compose\n"}]}]
+bc:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 2: Configure BlockScout for Besu"}]
+bd:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Locate ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"envs/common-blockscout.env"}]," and update or append the following variables at the end of the file. Existing values will be overwritten:"]}]
+be:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Network Configuration\nETHEREUM_JSONRPC_VARIANT=besu\nETHEREUM_JSONRPC_HTTP_URL=http://host.docker.internal:8548\nETHEREUM_JSONRPC_TRACE_URL=http://host.docker.internal:8548\nETHEREUM_JSONRPC_WS_URL=ws://host.docker.internal:8548\n\n# Chain Configuration\nCHAIN_ID=1337\nCOIN=ETH\nNETWORK=Besu Private Network\n"}]}]
+bf:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Important Configuration Note:"}]}]
+c0:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"host.docker.internal"}],": This special DNS name allows BlockScout container to access your host machine's ports (where Besu is running)"]}],"\n"]}]
+c1:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 3: Start BlockScout"}]
+c2:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Make sure your Besu network is running, then start BlockScout:"}]
+c3:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Ensure you're in blockscout-explorer/docker-compose directory\ncd blockscout-explorer/docker-compose\n\n# Start BlockScout services\ndocker compose up -d\n\n# Monitor startup logs\ndocker compose logs -f backend\n"}]}]
+c4:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Wait for the initialization"}]," - BlockScout needs to:"]}]
+c5:["$","ol",null,{"className":"list-decimal space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-5 sm:ml-6 marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Create and migrate the database (1-2 minutes)"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Start indexing blocks from your Besu network"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Boot up the frontend interface"}],"\n"]}]
+c6:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 4: Access BlockScout Dashboard"}]
+c7:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Open your browser and navigate to:"}]
+c8:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Frontend UI"}],": ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"http://localhost:80"}]]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"API Backend"}],": ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"http://localhost:80/api"}]]}],"\n"]}]
+c9:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"First-time setup may take 2-3 minutes"}]," as BlockScout indexes your existing blocks."]}]
+ca:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 5: Explore Your Blockchain Visually"}]
+cb:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Once BlockScout is running, you can:"}]
+cc:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"1. Monitor Real-Time Blocks"}]}]
+cd:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"View blocks being produced every 2 seconds"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"See validator addresses confirming transactions"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Track gas usage and block rewards"}],"\n"]}]
+ce:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"2. Search and Track Transactions"}]}]
+cf:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Deploy a contract to see it in BlockScout\ncd ../../smart-contracts\nnpx hardhat run scripts/deploy.js --network besu\n\n# Copy the contract address and search for it in BlockScout\n"}]}]
+d0:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Step 6: Managing BlockScout"}]
+d1:["$","$L28",null,{"className":"language-bash","children":["$","code",null,{"className":"language-bash","children":"# Stop BlockScout\ndocker compose down\n\n# Stop and remove all data (fresh start)\ndocker compose down -v\n\n# View logs\ndocker compose logs -f backend\ndocker compose logs -f frontend\n\n# Restart services\ndocker compose restart\n"}]}]
+d2:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Now you have a complete development environment: a private Besu blockchain with full visual monitoring through BlockScout! 🎉"}]
+d3:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Conclusion"}]
+d4:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Congratulations! You've built a ",["$","strong",null,{"className":"font-semibold text-white","children":"complete enterprise-grade blockchain development environment"}],":"]}]
+d5:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Private Besu Network"}]," with QBFT consensus and Byzantine fault tolerance"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Docker Containerization"}]," for easy deployment and scaling"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Smart Contract Development"}]," with Hardhat and multiple deployment options"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Visual Block Explorer"}]," with BlockScout for intuitive network monitoring"]}],"\n"]}]
+d6:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"This setup provides everything you need for:"}]
+d7:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Enterprise blockchain development"}]," with production-ready infrastructure"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Private DApp testing"}]," in an isolated, controlled environment"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Smart contract experimentation"}]," with real-time visual feedback"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Team collaboration"}]," with containerized, reproducible environments"]}],"\n"]}]
+d8:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Next Steps"}]
+d9:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Ready to Scale?"}]}]
+da:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Add more validator nodes for increased decentralization"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Set up load balancing for high-throughput applications"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Deploy to cloud infrastructure (AWS, Azure, GCP) or Kubernetes clusters"}],"\n"]}]
+db:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Want to Build Custom Blockchain Solutions?"}]}]
+dc:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Integrate advanced features like private transactions and on-chain governance"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Develop custom consensus mechanisms for your business needs"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Build production-ready DApps with monitoring and analytics"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Implement cross-chain bridges and interoperability solutions"}],"\n"]}]
+dd:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Need Help with Your Blockchain Project? 🚀"}]
+de:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"I specialize in building and scaling blockchain systems, including:"}]
+df:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Private Blockchain Networks"}]," — Besu, Quorum, and Hyperledger Fabric setups"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Smart Contracts"}]," — Solidity development, auditing, and optimization"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Enterprise DApps"}]," — End-to-end decentralized application development"]}],"\n"]}]
+e0:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["📩 ",["$","strong",null,{"className":"font-semibold text-white","children":"Let’s collaborate"}]," on your next blockchain project. ",["$","$L24",null,{"href":"/#contact","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Contact me here"}]]}]
+e1:["$","hr",null,{"className":"my-8 sm:my-12 border-0 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent"}]
+e2:["$","h3",null,{"className":"text-lg sm:text-xl lg:text-2xl font-semibold mt-8 mb-4 text-gray-100 scroll-mt-20 leading-tight","children":"Useful Resources"}]
+e3:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L24",null,{"href":"https://besu.hyperledger.org/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Hyperledger Besu Documentation"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L24",null,{"href":"https://docs.blockscout.com/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"BlockScout Documentation"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L24",null,{"href":"https://docs.docker.com/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Docker Documentation"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L24",null,{"href":"https://hardhat.org/docs","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Hardhat Documentation"}]}],"\n"]}]
+e4:["$","hr",null,{"className":"my-8 sm:my-12 border-0 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent"}]
+e5:["$","blockquote",null,{"className":"border-l-2 sm:border-l-4 border-cyan-400/50 pl-4 sm:pl-6 py-2 sm:py-3 my-6 sm:my-8 text-gray-400 italic bg-cyan-400/5 rounded-r-lg text-sm sm:text-base","children":["\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"\"From zero to production-ready blockchain in under an hour. This is the power of modern blockchain infrastructure.\""}]}],"\n"]}]
+e6:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","em",null,{"className":"italic text-gray-200","children":"Found this guide helpful? Share it with your team, and let me know what you build! Happy blockchain development! 🎉"}]}]
+e9:["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"localhost:8548"}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+13:{"metadata":[["$","title","0",{"children":"Building a Private Blockchain with Hyperledger Besu & Docker: Complete QBFT Network Setup Guide"}],["$","meta","1",{"name":"description","content":"Learn to build a production-ready private blockchain using Hyperledger Besu, Docker, and the QBFT consensus mechanism. This end-to-end guide covers everything from network setup and containerized deployment to smart contract development with Hardhat, contract interaction, and BlockScout integration for real-time blockchain exploration."}],["$","link","2",{"rel":"author","href":"http://localhost:3000"}],["$","meta","3",{"name":"author","content":"Azim Memon"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"Azim Memon,Software Developer,Full-Stack Developer,Blockchain Developer,Computer Engineer,React Developer,Next.js Developer,Node.js Developer,Spring Boot Developer,eSparkBiz,Ahmedabad Developer,Gujarat Developer,India Developer,Microservices Architecture,TypeScript Developer,Java Developer,Python Developer,Web Development,Mobile Development,React Native,DeFi Developer,Ethereum Developer,Smart Contracts,PostgreSQL,MongoDB,Docker,Authentication Systems,QR Login,Auth0,GTU Computer Engineering,AIET Ahmedabad,NestJS Developer,Django Developer,Redux Developer,REST API,GraphQL,CI/CD,AWS,React developer in Ahmedabad,Blockchain developer Gujarat,Full-stack engineer India,Next.js specialist Ahmedabad,Microservices architect India,Software developer Ahmedabad,Web developer Gujarat"}],["$","meta","6",{"name":"creator","content":"Azim Memon"}],["$","meta","7",{"name":"publisher","content":"Azim Memon"}],["$","meta","8",{"name":"robots","content":"index, follow, nocache"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"technology"}],["$","meta","11",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","14",{"rel":"canonical","href":"http://localhost:3000/"}],["$","meta","15",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","16",{"property":"og:title","content":"Building a Private Blockchain with Hyperledger Besu & Docker: Complete QBFT Network Setup Guide"}],["$","meta","17",{"property":"og:description","content":"Learn to build a production-ready private blockchain using Hyperledger Besu, Docker, and the QBFT consensus mechanism. This end-to-end guide covers everything from network setup and containerized deployment to smart contract development with Hardhat, contract interaction, and BlockScout integration for real-time blockchain exploration."}],["$","meta","18",{"property":"og:url","content":"http://localhost:3000/blog/building-private-blockchain-besu-qbft/"}],["$","meta","19",{"property":"og:image","content":"http://localhost:3000/assets/blog/qbft-blockchain-guide.png"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2025-11-06"}],["$","meta","22",{"property":"article:author","content":"Azim Memon"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Building a Private Blockchain with Hyperledger Besu & Docker: Complete QBFT Network Setup Guide"}],["$","meta","25",{"name":"twitter:description","content":"Learn to build a production-ready private blockchain using Hyperledger Besu, Docker, and the QBFT consensus mechanism. This end-to-end guide covers everything from network setup and containerized deployment to smart contract development with Hardhat, contract interaction, and BlockScout integration for real-time blockchain exploration."}],"$Lf0","$Lf1","$Lf2","$Lf3","$Lf4","$Lf5"],"error":null,"digest":"$undefined"}
+f6:I[80622,[],"IconMark"]
+f0:["$","meta","26",{"name":"twitter:image","content":"http://localhost:3000/assets/blog/qbft-blockchain-guide.png"}]
+f1:["$","link","27",{"rel":"shortcut icon","href":"/assets/img/titleIcon.webp"}]
+f2:["$","link","28",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}]
+f3:["$","link","29",{"rel":"icon","href":"/assets/img/titleIcon.webp"}]
+f4:["$","link","30",{"rel":"apple-touch-icon","href":"/assets/img/titleIcon.webp"}]
+f5:["$","$Lf6","31",{}]
+18:"$13:metadata"
