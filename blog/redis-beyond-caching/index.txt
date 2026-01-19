@@ -1,0 +1,1100 @@
+1:"$Sreact.fragment"
+2:I[41402,["177","static/chunks/app/layout-d1bb4207cd042c5d.js"],""]
+d:I[54062,["219","static/chunks/app/global-error-dbb070b1d0e84eb8.js"],"default"]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/17532f037e850dbb.css","style"]
+:HL["/_next/static/css/dc1901b5f9fad760.css","style"]
+3:T870,{"@context":"https://schema.org","@type":"Person","@id":"https://azimmemon2002.github.io#person","name":"Azim Memon","url":"https://azimmemon2002.github.io","mainEntityOfPage":"https://azimmemon2002.github.io","image":"https://azimmemon2002.github.io/assets/img/azim-memon-fullstack-developer.jpg","jobTitle":"Software Engineer | Full Stack & Blockchain Developer","worksFor":{"@type":"Organization","name":"eSparkBiz","url":"https://www.esparkbiz.com","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Ahmedabad","addressRegion":"Gujarat","addressCountry":"IN"}}},"alumniOf":{"@type":"CollegeOrUniversity","name":"Gujarat Technological University","alternateName":"GTU","sameAs":"https://www.gtu.ac.in","address":{"@type":"PostalAddress","addressLocality":"Ahmedabad","addressRegion":"Gujarat","addressCountry":"IN"}},"description":"Software Engineer with 3+ years specializing in Full Stack and Blockchain development. Expert in React, Next.js, Node.js, Spring Boot, and Smart Contracts. Currently architecting microservices at eSparkBiz in Ahmedabad.","sameAs":["https://www.linkedin.com/in/azim-m-73221a231","https://github.com/azimmemon2002","https://azimmemon2002.github.io"],"knowsAbout":["Software Engineer","Full Stack Development","React.js","Next.js","Node.js","Blockchain Development","Smart Contracts","Microservices Architecture","Spring Boot","TypeScript","DeFi","Web3","NestJS","Java","Python","PostgreSQL","MongoDB","Docker","Auth0","QR Authentication"],"address":{"@type":"PostalAddress","addressLocality":"Ahmedabad","addressRegion":"Gujarat","addressCountry":"IN"},"hasOccupation":{"@type":"Occupation","name":"Software Engineer","occupationLocation":{"@type":"City","name":"Ahmedabad"},"skills":"Full Stack Development, React, Next.js, Node.js, Blockchain, Smart Contracts, Microservices, Spring Boot","experienceRequirements":"3+ years"},"hasCredential":{"@type":"EducationalOccupationalCredential","credentialCategory":"degree","name":"Bachelor of Engineering in Computer Engineering","educationalLevel":"Bachelor","recognizedBy":{"@type":"CollegeOrUniversity","name":"Gujarat Technological University"}}}0:{"P":null,"b":"Eolq6N984oKflapr7xYBB","p":"","c":["","blog","redis-beyond-caching",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","redis-beyond-caching","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/17532f037e850dbb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/dc1901b5f9fad760.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preload","href":"/assets/img/azim-memon-fullstack-developer.jpg","as":"image"}],["$","meta",null,{"name":"author","content":"Azim Memon"}],["$","meta",null,{"name":"language","content":"English"}],["$","meta",null,{"name":"revisit-after","content":"7 days"}],["$","meta",null,{"name":"distribution","content":"global"}],["$","meta",null,{"name":"rating","content":"general"}],["$","meta",null,{"name":"geo.region","content":"IN-GJ"}],["$","meta",null,{"name":"geo.placename","content":"Ahmedabad"}],["$","link",null,{"rel":"me","href":"https://www.linkedin.com/in/azim-m-73221a231"}],["$","link",null,{"rel":"me","href":"https://github.com/azimmemon2002"}],["$","$L2",null,{"id":"structured-data-person","type":"application/ld+json","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7"]}],"$L8"]}]]}],{"children":["blog","$L9",{"children":[["slug","redis-beyond-caching","d"],"$La",{"children":["__PAGE__","$Lb",{},null,false]},null,false]},null,false]},null,false],"$Lc",false]],"m":"$undefined","G":["$d",[]],"s":false,"S":true}
+e:I[9766,[],""]
+f:I[98924,[],""]
+10:I[25254,["297","static/chunks/297-82933dba0a8b3452.js","130","static/chunks/130-f4825382e2b97cab.js","345","static/chunks/app/not-found-5a1c84886b59600a.js"],"default"]
+11:I[68332,["177","static/chunks/app/layout-d1bb4207cd042c5d.js"],"GoogleAnalytics"]
+12:I[4454,["297","static/chunks/297-82933dba0a8b3452.js","130","static/chunks/130-f4825382e2b97cab.js","647","static/chunks/647-834e343d48a33d22.js","584","static/chunks/app/blog/layout-e3562cf126ed89a9.js"],"default"]
+13:I[5042,["297","static/chunks/297-82933dba0a8b3452.js","130","static/chunks/130-f4825382e2b97cab.js","647","static/chunks/647-834e343d48a33d22.js","584","static/chunks/app/blog/layout-e3562cf126ed89a9.js"],"default"]
+15:I[24431,[],"OutletBoundary"]
+17:I[15278,[],"AsyncMetadataOutlet"]
+19:I[24431,[],"ViewportBoundary"]
+1b:I[24431,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+4:["$","$L2",null,{"id":"structured-data-website","type":"application/ld+json","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Azim Memon Portfolio\",\"url\":\"https://azimmemon2002.github.io\",\"description\":\"Professional portfolio of Azim Memon, a Software Developer specializing in full-stack and blockchain development\",\"author\":{\"@type\":\"Person\",\"name\":\"Azim Memon\"},\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://azimmemon2002.github.io/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+5:["$","$L2",null,{"id":"structured-data-service","type":"application/ld+json","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ProfessionalService\",\"name\":\"Azim Memon - Software Development Services\",\"image\":\"https://azimmemon2002.github.io/assets/img/azim-memon-fullstack-developer.jpg\",\"@id\":\"https://azimmemon2002.github.io\",\"url\":\"https://azimmemon2002.github.io\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Ahmedabad\",\"addressRegion\":\"Gujarat\",\"addressCountry\":\"IN\"},\"description\":\"Professional software development services including full-stack web development, blockchain solutions, and microservices architecture\",\"priceRange\":\"$$\",\"areaServed\":{\"@type\":\"Country\",\"name\":\"India\"}}"}}]
+6:["$","$L2",null,{"id":"structured-data-breadcrumb","strategy":"beforeInteractive","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Azim Memon - Portfolio\",\"item\":\"https://azimmemon2002.github.io\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://azimmemon2002.github.io/blog/\"}]}"}}]
+7:["$","$L2",null,{"id":"structured-data-profile-page","strategy":"beforeInteractive","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ProfilePage\",\"@id\":\"https://azimmemon2002.github.io#profilepage\",\"mainEntity\":{\"@id\":\"https://azimmemon2002.github.io#person\"},\"name\":\"Azim Memon - Software Engineer Portfolio\",\"description\":\"Professional portfolio and profile of Azim Memon, Software Engineer specializing in Full Stack and Blockchain development.\"}"}}]
+8:["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased","children":[["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L10",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L11",null,{"gaId":"https://azimmemon2002.github.io"}]]}]
+9:["$","$1","c",{"children":[null,[["$","$L12",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L13",null,{}]]]}]
+a:["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+c:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1f:I[99933,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-04fa32348e5879d8.js"],"default"]
+20:I[7445,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-04fa32348e5879d8.js"],"default"]
+21:I[73094,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-04fa32348e5879d8.js"],"default"]
+1e:T49f,{"@context":"https://schema.org","@type":"BlogPosting","headline":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know","description":"Discover how Redis solves real-world system design problems beyond caching—from session stores and rate limiting to pub/sub messaging and distributed locks. Includes practical Node.js examples.","image":"https://azimmemon2002.github.io/assets/blog/redis-beyond-caching.png","datePublished":"2026-01-20","dateModified":"2026-01-20","author":{"@type":"Person","@id":"https://azimmemon2002.github.io#person","name":"Azim Memon","url":"https://azimmemon2002.github.io","jobTitle":"Software Engineer","sameAs":["https://www.linkedin.com/in/azim-m-73221a231","https://github.com/azimmemon2002"],"worksFor":{"@type":"Organization","name":"eSparkBiz"}},"publisher":{"@type":"Person","@id":"https://azimmemon2002.github.io#person","name":"Azim Memon","url":"https://azimmemon2002.github.io"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://azimmemon2002.github.io/blog/redis-beyond-caching"},"articleSection":"Backend Development","keywords":"Redis, Node.js, System Design, Scalability, Distributed Systems","inLanguage":"en-US"}14:["$","div",null,{"className":"pt-1 sm:pt-12 lg:pt-20 pb-20 lg:pb-8 bg-primary text-white","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1e"}}],["$","$L1f",null,{}],["$","$L20",null,{}],["$","section",null,{"className":"pt-4 px-4 sm:px-6","children":["$","div",null,{"className":"container mx-auto max-w-4xl","children":[["$","div",null,{"className":"mb-6 animate-fade-in","children":["$","span",null,{"className":"inline-flex items-center gap-2 px-4 py-2 text-xs font-semibold rounded-lg bg-gradient-to-r from-cyan-400/10 to-purple-400/10 text-cyan-400 border border-cyan-400/30 backdrop-blur-sm hover:scale-105 transition-transform duration-200","children":"Backend Development"}]}],["$","h1",null,{"className":"text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold mb-8 leading-[1.2] text-white animate-fade-in-up","children":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-400 mb-8 pb-8 border-b border-white/10","children":[["$","div",null,{"className":"flex items-center gap-3 group","children":[["$","div",null,{"className":"transform transition-transform duration-200 group-hover:scale-110","children":["$","$L21",null,{"alt":"Azim Memon","size":48,"showGlow":true}]}],["$","span",null,{"className":"font-medium text-gray-300 group-hover:text-white transition-colors","children":"Azim Memon"}]]}],["$","span",null,{"className":"text-gray-600 hidden sm:inline","children":"•"}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 hover:border-white/20 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4 text-cyan-400","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"dateTime":"2026-01-20","className":"text-gray-400","children":"Jan 20, 2026"}]]}],["$","span",null,{"className":"text-gray-600 hidden sm:inline","children":"•"}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4 text-purple-400","aria-hidden":"true","children":["$L22","$L23","$undefined"]}],"$L24"]}]]}],"$L25","$L26"]}]}],"$L27","$L28"]}]
+29:I[81356,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-04fa32348e5879d8.js"],"Image"]
+2b:I[52619,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-04fa32348e5879d8.js"],""]
+22:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+23:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+24:["$","span",null,{"className":"text-gray-400","children":"26 min read"}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 mb-10","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-4 h-4 text-gray-500","aria-hidden":"true","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],[["$","span","Redis",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"0ms"},"children":"Redis"}],["$","span","Node.js",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"50ms"},"children":"Node.js"}],["$","span","System Design",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"100ms"},"children":"System Design"}],["$","span","Scalability",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"150ms"},"children":"Scalability"}],["$","span","Distributed Systems",{"className":"px-3 py-1.5 text-xs font-medium bg-white/5 text-gray-400 rounded-lg border border-white/10 hover:border-cyan-400/30 hover:bg-cyan-400/5 hover:text-cyan-400 transition-all duration-200 cursor-default","style":{"animationDelay":"200ms"},"children":"Distributed Systems"}]]]}]
+26:["$","div",null,{"className":"relative aspect-[16/9] rounded-2xl overflow-hidden border border-white/10 mb-12 group shadow-2xl","children":[["$","$L29",null,{"src":"/assets/blog/redis-beyond-caching.png","alt":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know","fill":true,"className":"object-cover transition-transform duration-700 group-hover:scale-105","priority":true,"sizes":"(max-width: 768px) 100vw, 896px"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"}]]}]
+27:["$","article",null,{"className":"pb-16 px-4 sm:px-6","children":["$","div",null,{"className":"container mx-auto max-w-4xl","children":["$","div",null,{"className":"prose prose-invert prose-lg max-w-none","children":"$L2a"}]}]}]
+28:["$","section",null,{"className":"pb-2 px-4 sm:px-6","children":["$","div",null,{"className":"container mx-auto max-w-4xl","children":[["$","div",null,{"className":"mb-8 p-6 rounded-2xl bg-gradient-to-r from-cyan-400/5 to-purple-400/5 border border-white/10","children":["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"text-center sm:text-left","children":[["$","p",null,{"className":"text-sm font-semibold text-white mb-1","children":"Enjoyed this article?"}],["$","p",null,{"className":"text-xs text-gray-400","children":"Share it with your network"}]]}],["$","div",null,{"className":"flex flex-wrap gap-3 justify-center","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Redis%20Beyond%20Caching%3A%208%20Production%20Use%20Cases%20Every%20Developer%20Should%20Know&url=https%3A%2F%2Fazimmemon2002.github.io%2Fblog%2Fredis-beyond-caching","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 px-5 py-2.5 bg-black hover:bg-[#1DA1F2] border border-white/20 hover:border-[#1DA1F2] rounded-xl transition-all duration-300 text-sm font-medium group shadow-lg hover:shadow-[#1DA1F2]/30 hover:scale-105","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"w-4 h-4 text-white","children":["$undefined",[["$","path","0",{"d":"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],["$","span",null,{"children":"Twitter"}]]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fazimmemon2002.github.io%2Fblog%2Fredis-beyond-caching","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 px-5 py-2.5 bg-[#0A66C2] hover:bg-[#004182] border border-[#0A66C2] hover:border-[#004182] rounded-xl transition-all duration-300 text-sm font-medium group shadow-lg hover:shadow-[#0A66C2]/30 hover:scale-105","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","className":"w-4 h-4 text-white","children":["$undefined",[["$","path","0",{"d":"M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],["$","span",null,{"children":"LinkedIn"}]]}]]}]]}]}],["$","$L2b",null,{"href":"/#contact","className":"block group","children":["$","div",null,{"className":"p-8 rounded-2xl bg-gradient-to-br from-white/[0.03] to-white/[0.01] border border-white/10 shadow-xl backdrop-blur-sm transition-all duration-300 hover:border-white/20 hover:shadow-2xl hover:shadow-cyan-400/10 hover:-translate-y-1","children":["$","div",null,{"className":"flex flex-col sm:flex-row items-center sm:items-start gap-6","children":[["$","div",null,{"className":"flex-shrink-0 transform transition-transform duration-300 group-hover:scale-110","children":["$","$L21",null,{"alt":"Azim Memon","size":96,"showGlow":true,"showSpinBorder":true,"spinBorderSize":2}]}],["$","div",null,{"className":"flex-1 text-center sm:text-left","children":[["$","div",null,{"className":"mb-2","children":[["$","h3",null,{"className":"text-xl font-bold text-white mb-1 group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-cyan-400 group-hover:to-purple-400 group-hover:bg-clip-text transition-all duration-300","children":["Written by ","Azim Memon"]}],"$L2c"]}],"$L2d","$L2e"]}]]}]}]}]]}]}]
+2c:["$","p",null,{"className":"text-sm text-cyan-400 font-medium","children":"Software Engineer"}]
+2d:["$","p",null,{"className":"text-gray-400 text-sm sm:text-base leading-relaxed","children":"Sharing insights on web development, microservices, and modern tech stacks. Passionate about building scalable applications and exploring new technologies."}]
+2e:["$","div",null,{"className":"mt-4 inline-flex items-center gap-2 text-sm text-cyan-400 font-medium invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-300 translate-y-2 group-hover:translate-y-0","children":[["$","span",null,{"children":"Get in touch"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4 rotate-180 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}]]}]
+2a:[["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Introduction"}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["Ask most developers what Redis is, and they'll say “a cache.” While that’s true, it’s like calling ",["$","em",null,{"className":"italic text-gray-200","children":"Kubernetes"}]," ",["$","strong",null,{"className":"font-semibold text-white","children":"just a container runner"}],". Redis is an in-memory data structure store that can solve some of the most challenging problems in distributed systems."]}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"If you're building production applications that need to scale, handle real-time features, or manage distributed state, Redis is one of the tools that can help address these requirements. Many teams end up using only a small subset of its features."}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"What you'll learn:"}]}],"\n",["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"How to build stateless, scalable authentication systems with Redis sessions"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Implementing rate limiting to protect your APIs from abuse"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Real-time messaging patterns with Pub/Sub and Streams"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Handling race conditions with distributed locks"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Building background job queues and real-time leaderboards"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Tracking live analytics and metrics at scale"}],"\n"]}],"\n",["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"What Makes Redis Special?"}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Before diving into use cases, let's understand why Redis is so powerful:"}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"In-Memory Performance:"}]," All data lives in RAM, giving you microsecond latency. This is significantly faster than disk-backed databases for many workloads."]}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Rich Data Structures:"}]," Unlike simple key-value stores, Redis provides Strings, Hashes, Lists, Sets, Sorted Sets, Streams, and more. Each structure is optimized for specific use cases."]}],"\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$L2f"," Redis operations are atomic by default, making it perfect for distributed systems where consistency matters."]}],"\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6"]
+a7:I[47502,["479","static/chunks/795d4814-03491233a80d84bc.js","297","static/chunks/297-82933dba0a8b3452.js","239","static/chunks/239-74d81a816aabbe30.js","247","static/chunks/247-92551074deb42217.js","953","static/chunks/app/blog/%5Bslug%5D/page-04fa32348e5879d8.js"],"default"]
+2f:["$","strong",null,{"className":"font-semibold text-white","children":"Atomic Operations:"}]
+30:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Persistence Options:"}]," Despite being in-memory, Redis can persist data to disk, which allows a balance between performance and durability."]}]
+31:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Now let's explore eight production use cases that go far beyond simple caching."}]
+32:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 1: Redis as a Session Store"}]
+33:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," Traditional session storage doesn't scale. When you store sessions in server memory, users get logged out if they hit a different server behind a load balancer. Database-backed sessions are slow and create bottlenecks."]}]
+34:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis as a centralized session store enables true stateless architecture. Any server can validate any user's session instantly."]}]
+a8:T4fe,import express from "express";
+import session from "express-session";
+import RedisStore from "connect-redis";
+import { createClient } from "redis";
+
+// Initialize Redis client
+const redisClient = createClient({
+  url: "redis://localhost:6379",
+});
+await redisClient.connect();
+
+const app = express();
+
+// Configure session middleware with Redis
+app.use(
+  session({
+    store: new RedisStore({ client: redisClient }),
+    secret: "your-secret-key",
+    resave: false,
+    saveUninitialized: false,
+    cookie: {
+      secure: true, // Use in production with HTTPS
+      httpOnly: true,
+      maxAge: 1000 * 60 * 60 * 24, // 24 hours
+    },
+  })
+);
+
+// Login endpoint
+app.post("/login", async (req, res) => {
+  const { username, password } = req.body;
+
+  // Validate credentials (simplified)
+  if (await validateUser(username, password)) {
+    req.session.userId = username;
+    req.session.loginTime = Date.now();
+    res.json({ success: true });
+  } else {
+    res.status(401).json({ error: "Invalid credentials" });
+  }
+});
+
+// Protected route
+app.get("/dashboard", (req, res) => {
+  if (!req.session.userId) {
+    return res.status(401).json({ error: "Not authenticated" });
+  }
+
+  res.json({
+    user: req.session.userId,
+    message: "Welcome to your dashboard",
+  });
+});
+35:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$a8"}]}]
+36:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Explanation:"}]," Sessions are stored in Redis with automatic expiration. All your application servers share the same session store, enabling horizontal scaling without sticky sessions."]}]
+37:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Production tip:"}]," Use Redis Cluster for high availability and set appropriate TTLs to automatically clean up old sessions."]}]
+38:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 2: Rate Limiting with Redis"}]
+39:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," APIs need protection from abuse, DDoS attacks, and runaway client bugs. Rate limiting prevents any single user from overwhelming your system."]}]
+3a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis counters with expiration provide precise, distributed rate limiting across all your servers."]}]
+a9:T4d8,import { createClient } from 'redis';
+
+const redis = createClient();
+await redis.connect();
+
+async function rateLimiter(userId, maxRequests = 10, windowSeconds = 60) {
+  const key = `rate_limit:${userId}`;
+
+  // Use Redis pipeline for atomic operations
+  const multi = redis.multi();
+
+  // Increment counter
+  multi.incr(key);
+  // Set expiration only if key is new
+  multi.expire(key, windowSeconds, 'NX');
+
+  const results = await multi.exec();
+  const currentCount = results[0];
+
+  return {
+    allowed: currentCount <= maxRequests,
+    remaining: Math.max(0, maxRequests - currentCount),
+    resetIn: windowSeconds
+  };
+}
+
+// Express middleware for rate limiting
+async function rateLimitMiddleware(req, res, next) {
+  const userId = req.session?.userId || req.ip;
+
+  const limit = await rateLimiter(userId, 100, 60); // 100 requests per minute
+
+  // Set rate limit headers
+  res.set({
+    'X-RateLimit-Limit': 100,
+    'X-RateLimit-Remaining': limit.remaining,
+    'X-RateLimit-Reset': Date.now() + (limit.resetIn * 1000)
+  });
+
+  if (!limit.allowed) {
+    return res.status(429).json({
+      error: 'Too many requests',
+      retryAfter: limit.resetIn
+    });
+  }
+
+  next();
+}
+
+// Apply to routes
+app.use('/api', rateLimitMiddleware);
+3b:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$a9"}]}]
+3c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Advanced pattern:"}]," For more sophisticated rate limiting, use the ",["$","strong",null,{"className":"font-semibold text-white","children":"Sliding Window Log"}]," pattern with Redis Sorted Sets:"]}]
+3d:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"async function slidingWindowRateLimit(\n  userId,\n  maxRequests = 100,\n  windowMs = 60000\n) {\n  const key = `rate_limit:sliding:${userId}`;\n  const now = Date.now();\n  const windowStart = now - windowMs;\n\n  const multi = redis.multi();\n\n  // Remove old entries outside the window\n  multi.zRemRangeByScore(key, 0, windowStart);\n  // Count requests in current window\n  multi.zCard(key);\n  // Add current request\n  multi.zAdd(key, { score: now, value: `${now}-${Math.random()}` });\n  // Set expiration\n  multi.expire(key, Math.ceil(windowMs / 1000));\n\n  const results = await multi.exec();\n  const requestCount = results[1];\n\n  return {\n    allowed: requestCount < maxRequests,\n    remaining: Math.max(0, maxRequests - requestCount),\n  };\n}\n"}]}]
+3e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Why this matters:"}]," The sliding window approach prevents burst traffic at window boundaries and provides more accurate rate limiting."]}]
+3f:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 3: Redis Pub/Sub for Real-Time Features"}]
+40:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," You need to push updates to connected clients in real-time—chat messages, notifications, live updates. Polling is inefficient, and WebSockets alone don't scale across multiple servers."]}]
+41:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis Pub/Sub provides a lightweight message bus that connects all your servers, enabling real-time broadcast to any connected client."]}]
+aa:T6e1,import { createClient } from "redis";
+import { WebSocketServer, WebSocket } from "ws";
+
+// Publisher service (your API server)
+const publisher = createClient();
+await publisher.connect();
+
+app.post("/chat/message", async (req, res) => {
+  const { roomId, userId, message } = req.body;
+
+  const chatMessage = {
+    id: Date.now(),
+    roomId,
+    userId,
+    message,
+    timestamp: new Date().toISOString(),
+  };
+
+  // Publish message to Redis channel
+  await publisher.publish(`chat:room:${roomId}`, JSON.stringify(chatMessage));
+
+  res.json({ success: true, message: chatMessage });
+});
+
+// Subscriber service (your WebSocket server)
+const subscriber = createClient();
+await subscriber.connect();
+
+const wss = new WebSocketServer({ port: 8080 });
+const clients = new Map(); // roomId -> Set of WebSocket clients
+
+wss.on("connection", (ws) => {
+  ws.on("message", async (data) => {
+    const { action, roomId, userId } = JSON.parse(data);
+
+    if (action === "join") {
+      // Add client to room
+      if (!clients.has(roomId)) {
+        clients.set(roomId, new Set());
+
+        // Subscribe to this room's channel
+        await subscriber.subscribe(`chat:room:${roomId}`, (message) => {
+          // Broadcast to all clients in this room
+          const roomClients = clients.get(roomId);
+          if (roomClients) {
+            roomClients.forEach((client) => {
+              if (client.readyState === WebSocket.OPEN) {
+                client.send(message);
+              }
+            });
+          }
+        });
+      }
+
+      clients.get(roomId).add(ws);
+      ws.roomId = roomId;
+    }
+  });
+
+  ws.on("close", () => {
+    // Clean up on disconnect
+    if (ws.roomId && clients.has(ws.roomId)) {
+      clients.get(ws.roomId).delete(ws);
+    }
+  });
+});
+42:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$aa"}]}]
+43:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Real-world applications:"}]}]
+44:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Live chat applications"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Real-time notifications"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Collaborative editing tools"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Live sports scores or stock tickers"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Server-to-server communication"}],"\n"]}]
+45:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Important limitation:"}]," Pub/Sub messages are fire-and-forget. If a subscriber is offline, it misses the message. For guaranteed delivery, use Redis Streams (next section)."]}]
+46:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 4: Redis Streams for Event-Driven Architecture"}]
+47:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," Pub/Sub doesn't persist messages. If a service crashes or is temporarily offline, it loses events. You need guaranteed message delivery and the ability to replay events."]}]
+48:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis Streams provide an append-only log similar to Kafka, but simpler to operate and suitable for many event-driven scenarios."]}]
+ab:T8dc,import { createClient } from "redis";
+
+const redis = createClient();
+await redis.connect();
+
+// Producer: Add events to stream
+async function publishEvent(streamKey, eventData) {
+  const eventId = await redis.xAdd(
+    streamKey,
+    "*", // Auto-generate ID
+    eventData,
+    {
+      MAXLEN: 10000, // Keep last 10k events (optional)
+    }
+  );
+
+  return eventId;
+}
+
+// Example: Order processing system
+await publishEvent("orders:stream", {
+  orderId: "12345",
+  userId: "user_789",
+  amount: "99.99",
+  status: "created",
+  timestamp: Date.now().toString(),
+});
+
+// Consumer: Process events from stream
+async function consumeEvents(streamKey, consumerGroup, consumerName) {
+  try {
+    // Create consumer group (only needed once)
+    await redis.xGroupCreate(streamKey, consumerGroup, "0", {
+      MKSTREAM: true,
+    });
+  } catch (err) {
+    // Group already exists, ignore
+  }
+
+  while (true) {
+    // Read new messages
+    const messages = await redis.xReadGroup(
+      consumerGroup,
+      consumerName,
+      [{ key: streamKey, id: ">" }], // '>' means undelivered messages
+      {
+        COUNT: 10,
+        BLOCK: 5000, // Block for 5 seconds waiting for messages
+      }
+    );
+
+    if (!messages || messages.length === 0) continue;
+
+    for (const { name: streamName, messages: entries } of messages) {
+      for (const { id, message } of entries) {
+        try {
+          // Process the event
+          await processOrder(message);
+
+          // Acknowledge successful processing
+          await redis.xAck(streamKey, consumerGroup, id);
+        } catch (error) {
+          console.error(`Failed to process event ${id}:`, error);
+          // Event remains unacknowledged and can be retried
+        }
+      }
+    }
+  }
+}
+
+// Start multiple consumers for parallel processing
+consumeEvents("orders:stream", "order-processors", "worker-1");
+consumeEvents("orders:stream", "order-processors", "worker-2");
+
+// Process the order
+async function processOrder(orderData) {
+  console.log("Processing order:", orderData.orderId);
+
+  // Business logic here
+  // Update inventory, charge payment, send confirmation, etc.
+
+  await publishEvent("orders:stream", {
+    orderId: orderData.orderId,
+    status: "processed",
+    timestamp: Date.now().toString(),
+  });
+}
+49:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ab"}]}]
+4a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Key advantages:"}]}]
+4b:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Guaranteed delivery:"}]," Messages are persisted and acknowledged"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Consumer groups:"}]," Multiple workers process messages in parallel"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Replay capability:"}]," Can reprocess historical events"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Dead letter queue:"}]," Handle failed messages with retry logic"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Consumer recovery:"}]," Monitor the Pending Entries List (",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"XPENDING"}],") to detect messages that were delivered but not acknowledged."]}],"\n"]}]
+4c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"When to use Streams vs Pub/Sub:"}]}]
+4d:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Use ",["$","strong",null,{"className":"font-semibold text-white","children":"Pub/Sub"}]," for real-time notifications where message loss is acceptable"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Use ",["$","strong",null,{"className":"font-semibold text-white","children":"Streams"}]," for critical events requiring at-least-once delivery with acknowledgment tracking"]}],"\n"]}]
+4e:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 5: Distributed Locks with Redis"}]
+4f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," In distributed systems, multiple servers might try to perform the same operation simultaneously—processing the same job twice, double-charging a customer, or corrupting shared state."]}]
+50:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis-based distributed locks ensure only one process can execute a critical section at a time across your entire infrastructure."]}]
+ac:Tbaa,import { createClient } from "redis";
+import { v4 as uuidv4 } from "uuid";
+
+const redis = createClient();
+await redis.connect();
+
+class RedisLock {
+  constructor(redis, lockKey, ttlSeconds = 10) {
+    this.redis = redis;
+    this.lockKey = `lock:${lockKey}`;
+    this.ttlSeconds = ttlSeconds;
+    this.lockValue = uuidv4(); // Unique identifier for this lock
+  }
+
+  async acquire() {
+    // SET with NX (only if not exists) and EX (expiration)
+    const result = await this.redis.set(this.lockKey, this.lockValue, {
+      NX: true,
+      EX: this.ttlSeconds,
+    });
+
+    return result === "OK";
+  }
+
+  async release() {
+    // Only release if we own the lock (prevent releasing someone else's lock)
+    const script = `
+      if redis.call("get", KEYS[1]) == ARGV[1] then
+        return redis.call("del", KEYS[1])
+      else
+        return 0
+      end
+    `;
+
+    await this.redis.eval(script, {
+      keys: [this.lockKey],
+      arguments: [this.lockValue],
+    });
+  }
+
+  async extend(additionalSeconds) {
+    // Extend lock expiration if we still own it
+    const script = `
+      if redis.call("get", KEYS[1]) == ARGV[1] then
+        return redis.call("expire", KEYS[1], ARGV[2])
+      else
+        return 0
+      end
+    `;
+
+    return await this.redis.eval(script, {
+      keys: [this.lockKey],
+      arguments: [this.lockValue, additionalSeconds.toString()],
+    });
+  }
+}
+
+// Example: Ensure only one server processes a payment
+async function processPayment(orderId, amount) {
+  const lock = new RedisLock(redis, `payment:${orderId}`, 30);
+
+  const acquired = await lock.acquire();
+
+  if (!acquired) {
+    throw new Error("Payment already being processed");
+  }
+
+  try {
+    // Critical section - only one server executes this
+    console.log(`Processing payment for order ${orderId}`);
+
+    // Check if already processed
+    const status = await redis.get(`payment:status:${orderId}`);
+    if (status === "completed") {
+      return { success: true, message: "Already processed" };
+    }
+
+    // Process payment with external API
+    await chargeCustomer(amount);
+
+    // Mark as completed
+    await redis.set(`payment:status:${orderId}`, "completed", { EX: 86400 });
+
+    return { success: true, message: "Payment processed" };
+  } finally {
+    // Always release the lock
+    await lock.release();
+  }
+}
+
+// Example: Prevent duplicate job execution
+async function processScheduledJob(jobId) {
+  const lock = new RedisLock(redis, `job:${jobId}`, 300); // 5 minute lock
+
+  if (await lock.acquire()) {
+    try {
+      console.log(`Executing job ${jobId}`);
+
+      // Long-running job
+      for (let i = 0; i < 10; i++) {
+        await performJobStep(i);
+
+        // Extend lock if job is taking longer than expected
+        if (i % 3 === 0) {
+          await lock.extend(60);
+        }
+      }
+
+      console.log(`Job ${jobId} completed`);
+    } finally {
+      await lock.release();
+    }
+  } else {
+    console.log(`Job ${jobId} is already running on another server`);
+  }
+}
+51:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ac"}]}]
+52:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Critical considerations:"}]}]
+53:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Always set TTL:"}]," Prevents deadlocks if your process crashes"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Use unique values:"}]," Ensures you only release your own lock"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Extend if needed:"}]," For long-running operations"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Handle failures:"}]," Always release locks in finally blocks"]}],"\n"]}]
+54:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Production-ready library:"}]," For production use, consider ",["$","$L2b",null,{"href":"https://www.npmjs.com/package/redlock","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Redlock"}],", which implements the Redlock algorithm for multi-Redis instance deployments."]}]
+55:["$","blockquote",null,{"className":"border-l-2 sm:border-l-4 border-cyan-400/50 pl-4 sm:pl-6 py-2 sm:py-3 my-6 sm:my-8 text-gray-400 italic bg-cyan-400/5 rounded-r-lg text-sm sm:text-base","children":["\n",["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Note: For multi-node critical systems (e.g., payments or financial operations), prefer Redlock or database-backed idempotency guarantees rather than relying on a single Redis instance for locking."}],"\n"]}]
+56:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 6: Redis Job Queues for Background Processing"}]
+57:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," You can't process time-consuming tasks like sending emails, generating reports, or processing images during HTTP requests. You need reliable background job processing."]}]
+58:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis Lists provide a simple, reliable job queue. For more features, BullMQ builds a feature-rich queue system designed for production workloads on top of Redis."]}]
+ad:Tb48,import { Queue, Worker } from "bullmq";
+import { createClient } from "redis";
+
+const connection = {
+  host: "localhost",
+  port: 6379,
+};
+
+// Create queues for different job types
+const emailQueue = new Queue("emails", { connection });
+const imageQueue = new Queue("image-processing", { connection });
+
+// Producer: Add jobs to queue
+app.post("/register", async (req, res) => {
+  const { email, username } = req.body;
+
+  // Create user in database
+  const user = await createUser({ email, username });
+
+  // Queue welcome email (don't wait for it)
+  await emailQueue.add(
+    "welcome-email",
+    {
+      to: email,
+      username: username,
+      userId: user.id,
+    },
+    {
+      attempts: 3, // Retry up to 3 times on failure
+      backoff: {
+        type: "exponential",
+        delay: 2000, // Start with 2 second delay
+      },
+    }
+  );
+
+  res.json({ success: true, userId: user.id });
+});
+
+// Consumer: Process email jobs
+const emailWorker = new Worker(
+  "emails",
+  async (job) => {
+    const { to, username, userId } = job.data;
+
+    console.log(`Sending email to ${to}...`);
+
+    // Update progress
+    await job.updateProgress(25);
+
+    // Send email via external service
+    await sendEmail({
+      to,
+      subject: `Welcome ${username}!`,
+      body: generateWelcomeEmail(username),
+    });
+
+    await job.updateProgress(75);
+
+    // Log in database
+    await logEmailSent(userId, "welcome");
+
+    await job.updateProgress(100);
+
+    return { sent: true, timestamp: Date.now() };
+  },
+  { connection, concurrency: 5 }
+); // Process 5 emails concurrently
+
+// Handle job events
+emailWorker.on("completed", (job) => {
+  console.log(`Job ${job.id} completed successfully`);
+});
+
+emailWorker.on("failed", (job, err) => {
+  console.error(`Job ${job.id} failed:`, err);
+  // Send alert to monitoring system
+});
+
+// Image processing example with priority
+app.post("/upload-avatar", async (req, res) => {
+  const { userId, imageUrl } = req.body;
+
+  // High priority job for avatar updates
+  await imageQueue.add(
+    "resize-image",
+    {
+      userId,
+      imageUrl,
+      sizes: [50, 150, 500],
+      type: "avatar",
+    },
+    {
+      priority: 1, // Higher priority = processed first
+      attempts: 5,
+    }
+  );
+
+  res.json({ success: true, status: "processing" });
+});
+
+// Scheduled jobs (cron-like)
+const reportQueue = new Queue("reports", { connection });
+
+// Add recurring job
+await reportQueue.add(
+  "daily-report",
+  { reportType: "sales" },
+  {
+    repeat: {
+      pattern: "0 9 * * *", // Every day at 9 AM
+    },
+  }
+);
+
+// Get queue metrics
+app.get("/admin/queue-stats", async (req, res) => {
+  const [waiting, active, completed, failed] = await Promise.all([
+    emailQueue.getWaitingCount(),
+    emailQueue.getActiveCount(),
+    emailQueue.getCompletedCount(),
+    emailQueue.getFailedCount(),
+  ]);
+
+  res.json({ waiting, active, completed, failed });
+});
+59:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ad"}]}]
+5a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Advanced patterns:"}]}]
+5b:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"// Delayed jobs\nawait emailQueue.add(\n  \"reminder-email\",\n  { userId: \"123\", type: \"trial-ending\" },\n  { delay: 7 * 24 * 60 * 60 * 1000 } // 7 days\n);\n\n// Job dependencies (wait for parent job to complete)\nconst parentJob = await emailQueue.add(\"send-invoice\", { orderId: \"456\" });\n\nawait emailQueue.add(\n  \"send-receipt\",\n  { orderId: \"456\" },\n  { parent: { id: parentJob.id, queue: \"emails\" } }\n);\n\n// Rate limiting jobs\nconst rateLimitedQueue = new Queue(\"api-calls\", {\n  connection,\n  limiter: {\n    max: 10, // 10 jobs\n    duration: 1000, // per second\n  },\n});\n"}]}]
+5c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Why BullMQ over simple lists:"}]}]
+5d:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Job prioritization and scheduling"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Automatic retries with exponential backoff"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Job dependencies and workflows"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Rate limiting built-in"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Progress tracking and metrics"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Dead letter queue for failed jobs"}],"\n"]}]
+5e:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 7: Leaderboards with Sorted Sets"}]
+5f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," Building real-time leaderboards efficiently is surprisingly hard. You need fast insertions, updates, and queries for rankings—all while handling millions of scores."]}]
+60:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis Sorted Sets are specifically designed for leaderboards. They maintain sorted order automatically with O(log N) operations."]}]
+ae:Te84,import { createClient } from "redis";
+
+const redis = createClient();
+await redis.connect();
+
+// Add or update a player's score
+async function updateScore(gameId, playerId, score) {
+  const key = `leaderboard:${gameId}`;
+
+  // ZADD updates if exists, adds if new
+  await redis.zAdd(key, { score, value: playerId });
+
+  // Optional: Store player metadata separately
+  await redis.hSet(`player:${playerId}`, {
+    lastScore: score,
+    lastUpdated: Date.now(),
+  });
+}
+
+// Get top N players
+async function getTopPlayers(gameId, limit = 10) {
+  const key = `leaderboard:${gameId}`;
+
+  // Get top players with scores (descending order)
+  const results = await redis.zRangeWithScores(key, 0, limit - 1, {
+    REV: true, // Reverse for highest scores first
+  });
+
+  // Enrich with player data
+  const players = await Promise.all(
+    results.map(async ({ value: playerId, score }, index) => {
+      const playerData = await redis.hGetAll(`player:${playerId}`);
+      return {
+        rank: index + 1,
+        playerId,
+        score,
+        ...playerData,
+      };
+    })
+  );
+
+  return players;
+}
+
+// Get player's rank and score
+async function getPlayerRank(gameId, playerId) {
+  const key = `leaderboard:${gameId}`;
+
+  // Get rank (0-indexed, so add 1)
+  const rank = await redis.zRevRank(key, playerId);
+
+  if (rank === null) {
+    return { found: false };
+  }
+
+  // Get score
+  const score = await redis.zScore(key, playerId);
+
+  // Get total players
+  const totalPlayers = await redis.zCard(key);
+
+  return {
+    found: true,
+    rank: rank + 1,
+    score,
+    totalPlayers,
+    percentile: (((totalPlayers - rank) / totalPlayers) * 100).toFixed(2),
+  };
+}
+
+// Get players around a specific player (context)
+async function getPlayersAround(gameId, playerId, range = 5) {
+  const key = `leaderboard:${gameId}`;
+
+  const rank = await redis.zRevRank(key, playerId);
+
+  if (rank === null) return [];
+
+  // Get players above and below
+  const start = Math.max(0, rank - range);
+  const end = rank + range;
+
+  const results = await redis.zRangeWithScores(key, start, end, {
+    REV: true,
+  });
+
+  return results.map(({ value: id, score }, index) => ({
+    rank: start + index + 1,
+    playerId: id,
+    score,
+    isCurrentPlayer: id === playerId,
+  }));
+}
+
+// Increment score (useful for tracking metrics)
+async function incrementScore(gameId, playerId, points) {
+  const key = `leaderboard:${gameId}`;
+
+  const newScore = await redis.zIncrBy(key, points, playerId);
+
+  return newScore;
+}
+
+// Time-based leaderboards (weekly, daily)
+async function getDailyTopPlayers(gameId, date, limit = 10) {
+  const key = `leaderboard:${gameId}:daily:${date}`;
+
+  const results = await redis.zRangeWithScores(key, 0, limit - 1, {
+    REV: true,
+  });
+
+  // Auto-expire daily leaderboards after 30 days
+  await redis.expire(key, 30 * 24 * 60 * 60);
+
+  return results;
+}
+
+// Example: API endpoints
+app.post("/game/:gameId/score", async (req, res) => {
+  const { gameId } = req.params;
+  const { playerId, score } = req.body;
+
+  await updateScore(gameId, playerId, score);
+
+  const playerRank = await getPlayerRank(gameId, playerId);
+
+  res.json({
+    success: true,
+    ...playerRank,
+  });
+});
+
+app.get("/game/:gameId/leaderboard", async (req, res) => {
+  const { gameId } = req.params;
+  const { limit = 100 } = req.query;
+
+  const topPlayers = await getTopPlayers(gameId, parseInt(limit));
+
+  res.json({ leaderboard: topPlayers });
+});
+
+app.get("/game/:gameId/player/:playerId/rank", async (req, res) => {
+  const { gameId, playerId } = req.params;
+
+  const rankData = await getPlayerRank(gameId, playerId);
+  const context = await getPlayersAround(gameId, playerId, 3);
+
+  res.json({
+    ...rankData,
+    nearby: context,
+  });
+});
+61:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$ae"}]}]
+62:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Advanced patterns:"}]}]
+63:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"// Multiple leaderboards (global, regional, friends)\nasync function updateAllLeaderboards(playerId, score, region, friendIds) {\n  const multi = redis.multi();\n\n  multi.zAdd(\"leaderboard:global\", { score, value: playerId });\n  multi.zAdd(`leaderboard:region:${region}`, { score, value: playerId });\n\n  friendIds.forEach((friendId) => {\n    multi.zAdd(`leaderboard:friends:${friendId}`, { score, value: playerId });\n  });\n\n  await multi.exec();\n}\n\n// Percentile-based ranking\nasync function getScorePercentile(gameId, score) {\n  const key = `leaderboard:${gameId}`;\n\n  // Count players with lower scores\n  const belowCount = await redis.zCount(key, \"-inf\", score);\n  const totalCount = await redis.zCard(key);\n\n  const percentile = ((belowCount / totalCount) * 100).toFixed(2);\n\n  return { percentile, betterThan: belowCount };\n}\n"}]}]
+64:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Performance characteristics:"}]}]
+65:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Add/Update:"}]," O(log N)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Get Rank:"}]," O(log N)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Get Top N:"}]," O(log N + N)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Range Query:"}]," O(log N + M) where M is the result count"]}],"\n"]}]
+66:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Perfect for games, social apps, trending content, and any scenario requiring real-time rankings."}]
+67:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Use Case 8: Real-Time Analytics and Counters"}]
+68:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Problem:"}]," Tracking live metrics like page views, active users, likes, and engagement requires fast writes and instant reads. Traditional databases create bottlenecks at scale."]}]
+69:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":[["$","strong",null,{"className":"font-semibold text-white","children":"The Solution:"}]," Redis atomic operations and data structures simplify the implementation of real-time analytics, handling millions of updates per second."]}]
+af:T1aa5,import { createClient } from "redis";
+
+const redis = createClient();
+await redis.connect();
+
+// Simple counter with atomic increment
+async function trackPageView(pageId, userId) {
+  const multi = redis.multi();
+
+  // Total views for page
+  multi.incr(`page:${pageId}:views`);
+
+  // Unique viewers using HyperLogLog
+  multi.pfAdd(`page:${pageId}:unique`, userId);
+
+  // Views today
+  const today = new Date().toISOString().split("T")[0];
+  multi.incr(`page:${pageId}:views:${today}`);
+
+  await multi.exec();
+}
+
+// Get analytics data
+async function getPageAnalytics(pageId) {
+  const [totalViews, uniqueViewers] = await Promise.all([
+    redis.get(`page:${pageId}:views`),
+    redis.pfCount(`page:${pageId}:unique`),
+  ]);
+
+  return {
+    totalViews: parseInt(totalViews) || 0,
+    uniqueViewers,
+  };
+}
+
+// Track active users in real-time
+async function trackActiveUser(userId) {
+  const now = Date.now();
+  const activeKey = "users:active";
+
+  // Add user to sorted set with current timestamp
+  await redis.zAdd(activeKey, { score: now, value: userId });
+
+  // Remove users inactive for more than 5 minutes
+  const fiveMinutesAgo = now - 5 * 60 * 1000;
+  await redis.zRemRangeByScore(activeKey, "-inf", fiveMinutesAgo);
+}
+
+async function getActiveUsersCount() {
+  return await redis.zCard("users:active");
+}
+
+// Like/reaction system with Set operations
+async function toggleLike(postId, userId) {
+  const key = `post:${postId}:likes`;
+
+  // Check if user already liked
+  const alreadyLiked = await redis.sIsMember(key, userId);
+
+  if (alreadyLiked) {
+    // Unlike
+    await redis.sRem(key, userId);
+    return { liked: false, action: "unliked" };
+  } else {
+    // Like
+    await redis.sAdd(key, userId);
+    return { liked: true, action: "liked" };
+  }
+}
+
+async function getLikeStats(postId) {
+  const key = `post:${postId}:likes`;
+
+  const [count, users] = await Promise.all([
+    redis.sCard(key),
+    redis.sMembers(key),
+  ]);
+
+  return {
+    likeCount: count,
+    likedBy: users.slice(0, 10), // First 10 users
+  };
+}
+
+async function hasUserLiked(postId, userId) {
+  return await redis.sIsMember(`post:${postId}:likes`, userId);
+}
+
+// Time-series data with Sorted Sets
+async function trackMetric(metricName, value, timestamp = Date.now()) {
+  const key = `metrics:${metricName}`;
+
+  await redis.zAdd(key, {
+    score: timestamp,
+    value: `${timestamp}:${value}`,
+  });
+
+  // Keep only last 7 days
+  const sevenDaysAgo = timestamp - 7 * 24 * 60 * 60 * 1000;
+  await redis.zRemRangeByScore(key, "-inf", sevenDaysAgo);
+}
+
+async function getMetricHistory(metricName, startTime, endTime) {
+  const key = `metrics:${metricName}`;
+
+  const results = await redis.zRangeByScore(key, startTime, endTime);
+
+  return results.map((entry) => {
+    const [timestamp, value] = entry.split(":");
+    return {
+      timestamp: parseInt(timestamp),
+      value: parseFloat(value),
+    };
+  });
+}
+
+// Trending content algorithm
+async function updateTrendingScore(contentId, engagement) {
+  const now = Date.now();
+  const ageInHours = (now - engagement.createdAt) / (1000 * 60 * 60);
+
+  // Reddit-style hot score formula
+  const score =
+    (engagement.upvotes - engagement.downvotes) / Math.pow(ageInHours + 2, 1.5);
+
+  await redis.zAdd("trending:content", {
+    score,
+    value: contentId,
+  });
+
+  // Expire old content from trending
+  const twoDaysAgo = -1000; // Lower than any recent score
+  await redis.zRemRangeByScore("trending:content", "-inf", twoDaysAgo);
+}
+
+async function getTrendingContent(limit = 20) {
+  const contentIds = await redis.zRange("trending:content", 0, limit - 1, {
+    REV: true,
+  });
+
+  // Fetch full content details
+  const content = await Promise.all(contentIds.map((id) => getContentById(id)));
+
+  return content;
+}
+
+// Real-time counters dashboard
+async function getDashboardMetrics() {
+  const multi = redis.multi();
+
+  // Get multiple metrics in one round trip
+  multi.get("metrics:total:users");
+  multi.get("metrics:total:posts");
+  multi.zCard("users:active");
+  multi.get("metrics:revenue:today");
+  multi.zCard("trending:content");
+
+  const results = await multi.exec();
+
+  return {
+    totalUsers: parseInt(results[0]) || 0,
+    totalPosts: parseInt(results[1]) || 0,
+    activeUsers: results[2] || 0,
+    revenueToday: parseFloat(results[3]) || 0,
+    trendingItems: results[4] || 0,
+  };
+}
+
+// Sliding window rate counter (e.g., requests per minute)
+async function trackRequest(endpoint) {
+  const now = Date.now();
+  const key = `requests:${endpoint}`;
+  const windowMs = 60000; // 1 minute
+
+  const multi = redis.multi();
+
+  // Add current request
+  multi.zAdd(key, { score: now, value: `${now}:${Math.random()}` });
+
+  // Remove old requests outside window
+  multi.zRemRangeByScore(key, "-inf", now - windowMs);
+
+  // Count requests in window
+  multi.zCard(key);
+
+  // Set expiration
+  multi.expire(key, 120); // 2 minutes
+
+  const results = await multi.exec();
+  const requestsPerMinute = results[2];
+
+  return requestsPerMinute;
+}
+
+// Batch counter updates (efficient for high-volume events)
+class CounterBatcher {
+  constructor(redis, flushIntervalMs = 1000) {
+    this.redis = redis;
+    this.counters = new Map();
+    this.flushIntervalMs = flushIntervalMs;
+
+    // Auto-flush periodically
+    this.flushInterval = setInterval(() => this.flush(), flushIntervalMs);
+  }
+
+  increment(key, amount = 1) {
+    const current = this.counters.get(key) || 0;
+    this.counters.set(key, current + amount);
+  }
+
+  async flush() {
+    if (this.counters.size === 0) return;
+
+    const multi = this.redis.multi();
+
+    for (const [key, amount] of this.counters.entries()) {
+      multi.incrBy(key, amount);
+    }
+
+    await multi.exec();
+    this.counters.clear();
+  }
+
+  async close() {
+    clearInterval(this.flushInterval);
+    await this.flush();
+  }
+}
+
+// Usage example
+const batcher = new CounterBatcher(redis, 5000); // Flush every 5 seconds
+
+app.post("/api/content/:id/view", async (req, res) => {
+  const { id } = req.params;
+
+  // Batch the increment instead of writing immediately
+  batcher.increment(`content:${id}:views`);
+  batcher.increment("global:total:views");
+
+  res.json({ success: true });
+});
+
+// Example: Real-time analytics API
+app.get("/analytics/dashboard", async (req, res) => {
+  const metrics = await getDashboardMetrics();
+  const trending = await getTrendingContent(10);
+  const activeUsers = await getActiveUsersCount();
+
+  res.json({
+    metrics: {
+      ...metrics,
+      activeNow: activeUsers,
+    },
+    trending,
+  });
+});
+
+app.get("/analytics/post/:postId", async (req, res) => {
+  const { postId } = req.params;
+
+  const [analytics, likes] = await Promise.all([
+    getPageAnalytics(postId),
+    getLikeStats(postId),
+  ]);
+
+  res.json({
+    postId,
+    views: analytics.totalViews,
+    uniqueViewers: analytics.uniqueViewers,
+    ...likes,
+  });
+});
+6a:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"$af"}]}]
+6b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Performance tips:"}]}]
+6c:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Use pipelines/transactions:"}]," Batch multiple operations to reduce network round trips"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"HyperLogLog for cardinality:"}]," Track unique counts with minimal memory (0.81% error rate)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Expire old data:"}]," Set TTLs on time-series data to prevent memory bloat"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Batch high-frequency writes:"}]," Reduce Redis load by batching counter updates"]}],"\n"]}]
+6d:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Production considerations:"}]}]
+6e:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use Redis Cluster for horizontal scaling beyond single-instance limits"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Monitor memory usage with ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"INFO memory"}]," command"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Configure maxmemory policies (e.g., ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"allkeys-lru"}],") for automatic eviction"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use Redis persistence (RDB + AOF) for durability"}],"\n"]}]
+6f:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Cache Invalidation Strategy"}]
+70:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Caching is only useful if the data remains correct. Stale cache entries can be more harmful than slow queries."}]
+71:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Common invalidation approaches:"}]
+72:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Time-based expiration (TTL):"}]," Automatically expire entries after a fixed duration."]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Write-through invalidation:"}]," Update or delete cache entries immediately when the underlying data changes."]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Event-based invalidation:"}]," Publish cache invalidation events (e.g., via Redis Pub/Sub or Streams) so other services can invalidate related keys."]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":[["$","strong",null,{"className":"font-semibold text-white","children":"Versioned keys:"}]," Include a version or timestamp in cache keys to force refreshes after schema or logic changes."]}],"\n"]}]
+73:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Relying on TTL alone is often insufficient for correctness in systems where data consistency matters."}]
+74:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Best Practices Across All Use Cases"}]
+75:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"1. Connection Management"}]}]
+76:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Always use connection pooling and handle reconnections gracefully:"}]
+77:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"import { createClient } from \"redis\";\n\nconst redis = createClient({\n  socket: {\n    reconnectStrategy: (retries) => {\n      if (retries > 10) {\n        return new Error(\"Max retries reached\");\n      }\n      return Math.min(retries * 100, 3000);\n    },\n  },\n});\n\nredis.on(\"error\", (err) => console.error(\"Redis error:\", err));\nredis.on(\"connect\", () => console.log(\"Redis connected\"));\nredis.on(\"reconnecting\", () => console.log(\"Redis reconnecting\"));\n\nawait redis.connect();\n"}]}]
+78:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"2. Use Transactions for Atomic Operations"}]}]
+79:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"When multiple operations must succeed or fail together:"}]
+7a:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"const multi = redis.multi();\nmulti.decrBy(\"inventory:item:123\", quantity);\nmulti.incrBy(\"user:456:cart\", quantity);\nmulti.set(`order:${orderId}`, JSON.stringify(orderData));\n\nconst results = await multi.exec();\n// All operations succeed or all fail\n"}]}]
+7b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"3. Set Appropriate Expiration Times"}]}]
+7c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Always expire temporary data to prevent memory leaks:"}]
+7d:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"// Session with 24-hour expiration\nawait redis.set(\"session:abc123\", sessionData, { EX: 86400 });\n\n// Rate limit with 1-minute window (use pipeline for atomic incr + expire)\nconst multi = redis.multi();\nmulti.incr(\"rate:user:123\");\nmulti.expire(\"rate:user:123\", 60, \"NX\"); // NX: only set if no TTL exists\nawait multi.exec();\n"}]}]
+7e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"4. Monitor and Alert"}]}]
+7f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Track key Redis metrics:"}]
+80:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Memory usage and fragmentation"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Hit/miss ratio for cached data"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Latency percentiles (p50, p95, p99)"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Evicted keys count"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Connection count"}],"\n"]}]
+81:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"5. Plan for Failure"}]}]
+82:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Redis should enhance your system, not be a single point of failure:"}]
+83:["$","$La7",null,{"className":"language-javascript","children":["$","code",null,{"className":"language-javascript","children":"async function getCachedData(key) {\n  try {\n    const cached = await redis.get(key);\n    if (cached) return JSON.parse(cached);\n  } catch (error) {\n    console.error(\"Redis error, falling back to DB:\", error);\n    // Degrade gracefully\n  }\n\n  // Fallback to database\n  return await database.query(key);\n}\n"}]}]
+84:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Security Considerations"}]
+85:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Redis should never be exposed directly to the public internet."}]
+86:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Minimum production security practices:"}]
+87:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Enable authentication and use Redis ACLs to restrict command access."}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Bind Redis to private network interfaces only."}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use TLS for connections, especially with managed services or cross-network deployments."}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Rotate credentials regularly and avoid embedding secrets in source code."}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Disable dangerous commands (",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"FLUSHALL"}],", ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"CONFIG"}],", etc.) for non-admin users."]}],"\n"]}]
+88:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Treat Redis as part of your internal infrastructure, not as a public-facing service."}]
+89:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Common Pitfalls to Avoid"}]
+8a:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Pitfall 1: Storing Large Values"}]}]
+8b:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Redis is optimized for small values (under 1MB)"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"For large data, store in S3/database and keep references in Redis"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use compression for larger JSON objects"}],"\n"]}]
+8c:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Pitfall 2: Blocking Operations in Production"}]}]
+8d:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Avoid ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"KEYS *"}]," in production (use ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"SCAN"}]," instead)"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Don't use blocking commands without timeouts"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use pipelining for bulk operations"}],"\n"]}]
+8e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Pitfall 3: Not Using Appropriate Data Structures"}]}]
+8f:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Don't serialize complex data into strings when Hashes work better"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use Sorted Sets for rankings, not sorted application-side arrays"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use Sets for unique collections, not arrays in strings"}],"\n"]}]
+90:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Pitfall 4: Ignoring Memory Management"}]}]
+91:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["Set ",["$","code",null,{"className":"inline-block max-w-full break-words px-1.5 py-0.5 sm:px-2 sm:py-1 rounded bg-white/10 text-cyan-400 text-xs sm:text-sm font-mono border border-white/10","children":"maxmemory"}]," and eviction policies"]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Monitor memory fragmentation"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use TTLs liberally to auto-expire data"}],"\n"]}]
+92:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Pitfall 5: Over-Engineering"}]}]
+93:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Don't use Redis for everything"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Keep complex business logic in application code"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use Redis for what it's good at: fast, simple operations"}],"\n"]}]
+94:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Choosing the Right Redis Deployment"}]
+95:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Single Instance:"}]}]
+96:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Development and small applications"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Simple to manage"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"No built-in high availability"}],"\n"]}]
+97:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Redis Sentinel:"}]}]
+98:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Automatic failover"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Monitoring and notifications"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Good for most production apps"}],"\n"]}]
+99:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Redis Cluster:"}]}]
+9a:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Horizontal scaling across nodes"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Handles terabytes of data"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Required for multi-region deployments"}],"\n"]}]
+9b:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Managed Services (AWS ElastiCache, Redis Cloud):"}]}]
+9c:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Automatic backups and patching"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Built-in monitoring and alerting"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Less operational overhead"}],"\n"]}]
+9d:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Conclusion"}]
+9e:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Redis provides far more functionality than simple key-value caching. It's a versatile toolkit that solves some of the hardest problems in distributed systems: maintaining shared state, coordinating work across servers, delivering real-time updates, and processing high-volume events."}]
+9f:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","strong",null,{"className":"font-semibold text-white","children":"Key Takeaways:"}]}]
+a0:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Use Redis sessions for stateless, scalable authentication"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Implement rate limiting to protect your APIs from abuse"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Leverage Pub/Sub for real-time features and Streams for reliable messaging"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Prevent race conditions with distributed locks"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Build robust background job processing with queues"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Create real-time leaderboards and analytics with Redis data structures"}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":"Always profile, monitor, and set appropriate TTLs"}],"\n"]}]
+a1:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"These patterns are commonly used in real-world systems. Start with the use cases that solve your immediate problems, and gradually explore more advanced patterns as your application scales."}]
+a2:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":"Remember: Redis is a powerful tool, but like any tool, it should be used thoughtfully. Profile your application, understand your bottlenecks, and apply Redis where it provides clear value. When used correctly, Redis can reduce the complexity of certain distributed system problems when applied appropriately."}]
+a3:["$","h2",null,{"className":"text-2xl lg:text-3xl font-bold mt-4 mb-4 text-white scroll-mt-20 leading-tight","children":"Further Resources"}]
+a4:["$","ul",null,{"className":"space-y-2 sm:space-y-3 mb-5 sm:mb-6 ml-0 sm:ml-3 list-disc marker:text-cyan-400","children":["\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L2b",null,{"href":"https://redis.io/docs/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Redis Official Documentation"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L2b",null,{"href":"https://university.redis.com/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Redis University (Free Courses)"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L2b",null,{"href":"https://docs.bullmq.io/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"BullMQ Documentation"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L2b",null,{"href":"https://redis.io/docs/management/optimization/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Redis Best Practices"}]}],"\n",["$","li",null,{"className":"text-sm sm:text-base lg:text-lg text-gray-300 leading-[1.75] pl-1 sm:pl-2","children":["$","$L2b",null,{"href":"https://redis.io/docs/manual/patterns/distributed-locks/","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Redlock Algorithm"}]}],"\n"]}]
+a5:["$","hr",null,{"className":"my-8 sm:my-12 border-0 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent"}]
+a6:["$","p",null,{"className":"text-base lg:text-lg text-gray-300 leading-[1.8] sm:leading-[1.75] mb-5 sm:mb-6","children":["$","em",null,{"className":"italic text-gray-200","children":["Want to discuss Redis architecture for your specific use case? ",["$","$L2b",null,{"href":"/#contact","className":"text-cyan-400 hover:text-cyan-300 transition-colors underline-offset-2 hover:underline font-medium break-words","children":"Let's connect"}]," - I love talking about system design and scalability challenges!"]}]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:null
+18:{"metadata":[["$","title","0",{"children":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know"}],["$","meta","1",{"name":"description","content":"Discover how Redis solves real-world system design problems beyond caching—from session stores and rate limiting to pub/sub messaging and distributed locks. Includes practical Node.js examples."}],["$","link","2",{"rel":"author","href":"https://azimmemon2002.github.io"}],["$","meta","3",{"name":"author","content":"Azim Memon"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"Azim Memon,Software Developer,Full-Stack Developer,Blockchain Developer,Computer Engineer,React Developer,Next.js Developer,Node.js Developer,Spring Boot Developer,eSparkBiz,Ahmedabad Developer,Gujarat Developer,India Developer,Microservices Architecture,TypeScript Developer,Java Developer,Python Developer,Mobile Development,React Native,DeFi Developer,Ethereum Developer,Smart Contracts,PostgreSQL,MongoDB,Docker,Authentication Systems,QR Login,Auth0,GTU Computer Engineering,AIET Ahmedabad,NestJS Developer,Django Developer,Redux Developer,GraphQL,CI/CD,AWS,React developer in Ahmedabad,Blockchain developer Gujarat,Full-stack engineer India,Next.js specialist Ahmedabad,Microservices architect India,Software developer Ahmedabad,Web developer Gujarat"}],["$","meta","6",{"name":"creator","content":"Azim Memon"}],["$","meta","7",{"name":"publisher","content":"Azim Memon"}],["$","meta","8",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"category","content":"technology"}],["$","meta","10",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","13",{"rel":"canonical","href":"https://azimmemon2002.github.io/blog/redis-beyond-caching/"}],["$","meta","14",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","15",{"name":"google-site-verification","content":"xuKgmJJkDarR-p_4ZfeSK2K7z0cVIMh6EEQ0lzZFIvI"}],["$","meta","16",{"property":"og:title","content":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know"}],["$","meta","17",{"property":"og:description","content":"Discover how Redis solves real-world system design problems beyond caching—from session stores and rate limiting to pub/sub messaging and distributed locks. Includes practical Node.js examples."}],["$","meta","18",{"property":"og:url","content":"https://azimmemon2002.github.io/blog/redis-beyond-caching/"}],["$","meta","19",{"property":"og:site_name","content":"Azim Memon Portfolio"}],["$","meta","20",{"property":"og:image","content":"https://azimmemon2002.github.io/assets/blog/redis-beyond-caching.png"}],["$","meta","21",{"property":"og:image:width","content":"1200"}],["$","meta","22",{"property":"og:image:height","content":"630"}],["$","meta","23",{"property":"og:image:alt","content":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know"}],["$","meta","24",{"property":"og:type","content":"article"}],["$","meta","25",{"property":"article:published_time","content":"2026-01-20"}],["$","meta","26",{"property":"article:author","content":"Azim Memon"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:creator","content":"@azimmemon"}],["$","meta","29",{"name":"twitter:title","content":"Redis Beyond Caching: 8 Production Use Cases Every Developer Should Know"}],["$","meta","30",{"name":"twitter:description","content":"Discover how Redis solves real-world system design problems beyond caching—from session stores and rate limiting to pub/sub messaging and distributed locks. Includes practical Node.js examples."}],"$Lb0","$Lb1","$Lb2","$Lb3","$Lb4","$Lb5"],"error":null,"digest":"$undefined"}
+b6:I[80622,[],"IconMark"]
+b0:["$","meta","31",{"name":"twitter:image","content":"https://azimmemon2002.github.io/assets/blog/redis-beyond-caching.png"}]
+b1:["$","link","32",{"rel":"shortcut icon","href":"/assets/img/titleIcon.webp"}]
+b2:["$","link","33",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}]
+b3:["$","link","34",{"rel":"icon","href":"/assets/img/titleIcon.webp"}]
+b4:["$","link","35",{"rel":"apple-touch-icon","href":"/assets/img/titleIcon.webp"}]
+b5:["$","$Lb6","36",{}]
+1d:"$18:metadata"
